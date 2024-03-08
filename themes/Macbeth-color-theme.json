@@ -273,6 +273,14 @@
         "quickInputList.focusForeground": "#C9E8EE",
         "quickInputList.focusIconForeground": "#C9E8EE",
         "quickInputTitle.background": "#C4AA97",
+        "welcomePage.background": "#1B1C22",
+        "welcomePage.progress.background": "#282A33",
+        "welcomePage.progress.foreground": "#C9E8EE",
+        "welcomePage.tileBackground": "#22232A",
+        "welcomePage.tileHoverBackground": "#282A33",
+        "welcomePage.tileBorder": "#22232A00",
+        "walkThrough.embeddedEditorBackground": "#1B1C22",
+        "walkthrough.stepTitle.foreground": "#EADFD7",
     },
     "tokenColors": [
         {
