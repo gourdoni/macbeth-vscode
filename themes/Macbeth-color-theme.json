@@ -239,6 +239,14 @@
         "extensionIcon.verifiedForeground": "#C8E0D1DF",
         "extensionIcon.preReleaseForeground": "#F9C390EF",
         "extensionIcon.sponsorForeground": "#C9E8EEDF",
+        "pickerGroup.border": "#31333F",
+        "pickerGroup.foreground": "#C4AA97",
+        "quickInput.background": "#22232A",
+        "quickInput.foreground": "#EADFD7",
+        "quickInputList.focusBackground": "#282A33",
+        "quickInputList.focusForeground": "#C9E8EE",
+        "quickInputList.focusIconForeground": "#C9E8EE",
+        "quickInputTitle.background": "#C4AA97",
     },
     "tokenColors": [
         {
