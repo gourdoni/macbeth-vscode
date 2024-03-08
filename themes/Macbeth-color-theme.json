@@ -223,6 +223,9 @@
         "titleBar.activeBackground": "#1B1C22",
         "titleBar.inactiveBackground": "#1B1C22",
         "titleBar.border": "#282A33",
+        "banner.background": "#282A33",
+        "banner.foreground": "#EADFD7",
+        "banner.iconForeground": "#C9E8EE",
     },
     "tokenColors": [
         {
