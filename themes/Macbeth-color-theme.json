@@ -38,6 +38,8 @@
         "activityBarTop.activeBorder": "#1B1C2200",
         "activityBarTop.inactiveForeground": "#8E837B",
         "activityBarTop.dropBorder": "#282A33",
+        "profileBadge.background": "#282A33",
+        "profileBadge.foreground": "#EADFD7",
         "editor.background": "#1B1C22",
         "editor.foreground": "#EADFD7",
         "editorLineNumber.foreground": "#31333F",
