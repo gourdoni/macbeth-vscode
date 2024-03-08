@@ -281,6 +281,11 @@
         "welcomePage.tileBorder": "#22232A00",
         "walkThrough.embeddedEditorBackground": "#1B1C22",
         "walkthrough.stepTitle.foreground": "#EADFD7",
+        "breadcrumb.foreground": "#8E837B",
+        "breadcrumb.background": "#1B1C22",
+        "breadcrumb.focusForeground": "#F6D5E7",
+        "breadcrumb.activeSelectionForeground": "#C9E8EE",
+        "breadcrumbPicker.background": "#22232A",
     },
     "tokenColors": [
         {
