@@ -39,7 +39,7 @@
         "checkbox.selectBackground": "#282A33",
         "dropdown.background": "#22232A",
         "dropdown.listBackground": "#22232A",
-        "dropdown.border": "#22232A00",
+        "dropdown.border": "#282A33",
         "dropdown.foreground": "#EADFD7",
         "scrollbar.shadow": "#1B1C2200",
         "scrollbarSlider.activeBackground": "#31333F",
@@ -169,6 +169,7 @@
         "editor.inactiveSelectionBackground": "#31333F85",
         "editor.selectionHighlightBackground": "#31333F85",
         "editor.selectionHighlightBorder": "#31333F00",
+
         "titleBar.activeForeground": "#C4AA97",
         "titleBar.inactiveForeground": "#8E837B",
         "titleBar.activeBackground": "#1B1C22",
