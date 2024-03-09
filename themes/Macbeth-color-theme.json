@@ -412,6 +412,10 @@
         "debugConsole.errorForeground": "#FB8B83",
         "debugConsole.sourceForeground": "#EADFD7",
         "debugConsoleInputIcon.foreground": "#C9E8EE",
+        "scm.historyItemAdditionsForeground": "#C8E0D1",
+        "scm.historyItemDeletionsForeground": "#F3C1BA",
+        "scm.historyItemStatisticsBorder": "#22232A00",
+        "scm.historyItemSelectedStatisticsBorder": "#22232A00",
     },
     "tokenColors": [
         {
