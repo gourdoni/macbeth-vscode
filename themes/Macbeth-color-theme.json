@@ -194,7 +194,7 @@
         "editor.wordHighlightTextBorder": "#31333F",
         "editorRuler.foreground": "#22232A",
         "editor.linkedEditingBackground": "#1B1C22",
-        "editor.foldBackground": "#22232AB0",
+        "editor.foldBackground": "#22232A90",
         "editorStickyScroll.background": "#1B1C22",
         "editorStickyScroll.border": "#282A33",
         "editorStickyScroll.shadow": "#1B1C2200",
