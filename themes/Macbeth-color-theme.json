@@ -412,6 +412,7 @@
         "debugConsole.errorForeground": "#FB8B83",
         "debugConsole.sourceForeground": "#EADFD7",
         "debugConsoleInputIcon.foreground": "#C9E8EE",
+        "ports.iconRunningProcessForeground": "#C9E8EE",
         "commentsView.resolvedIcon": "#C9E8EE",
         "commentsView.unresolvedIcon": "#F3C1BA",
         "actionBar.toggledBackground": "#1B1C22",
