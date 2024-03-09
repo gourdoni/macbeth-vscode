@@ -398,7 +398,7 @@
         "debugIcon.breakpointCurrentStackframeForeground": "#A8DBE6",
         "debugIcon.breakpointStackframeForeground": "#C9E8EE",
         "debugIcon.startForeground": "#C8E0D1",
-        "debugIcon.pauseForeground": "#F9C390",
+        "debugIcon.pauseForeground": "#C9E8EE",
         "debugIcon.stopForeground": "#FB8B83",
         "debugIcon.disconnectForeground": "#F3C1BA",
         "debugIcon.restartForeground": "#C8E0D1",
