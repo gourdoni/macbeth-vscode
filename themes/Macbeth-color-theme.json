@@ -412,6 +412,7 @@
         "debugConsole.errorForeground": "#FB8B83",
         "debugConsole.sourceForeground": "#EADFD7",
         "debugConsoleInputIcon.foreground": "#C9E8EE",
+        "actionBar.toggledBackground": "#1B1C22",
         "simpleFindWidget.sashBorder": "#22232A00",
         "scm.historyItemAdditionsForeground": "#C8E0D1",
         "scm.historyItemDeletionsForeground": "#F3C1BA",
