@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.pl": "prolog",
-        "*.txt": "plaintext",
-        "vector": "cpp"
-    }
-}

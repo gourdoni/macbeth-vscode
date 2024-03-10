@@ -1091,6 +1091,7 @@
                 "keyword.operator.comparison.js",
                 "keyword.operator.relational.js",
                 "keyword.operator.arithmetic.js",
+                "keyword.operator.logical.js",
             ],
             "settings": {
                 "foreground": "#F9C390",
@@ -1150,13 +1151,24 @@
             }
         },
         {
+            "name": "JavaScript Constant",
+            "scope": [
+                "constant.language.boolean.true.js",
+                "constant.language.boolean.false.js",
+            ],
+            "settings": {
+                "foreground": "#C8E0D1",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "JavaScript Template",
             "scope": [
                 "punctuation.definition.template-expression.begin.js",
                 "punctuation.definition.template-expression.end.js",
             ],
             "settings": {
-                "foreground": "#C8E7ED",
+                "foreground": "#C4AA97",
                 "fontStyle": ""
             }
         },
@@ -1165,7 +1177,9 @@
             "scope": [
                 "keyword.control.flow.js",
                 "keyword.control.loop.js",
+                "keyword.control.conditional.js",
                 "keyword.operator.expression.of.js",
+                "keyword.operator.expression.in.js",
             ],
             "settings": {
                 "foreground": "#FB8B83",
