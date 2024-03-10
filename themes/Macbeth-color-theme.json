@@ -246,6 +246,7 @@
         "editorBracketHighlight.foreground4": "#C8E7ED",
         "editorBracketHighlight.foreground5": "#F6D5E7",
         "editorBracketHighlight.foreground6": "#C8E0D1",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#FB8B83",
         "editorBracketPairGuide.background1": "#282A33",
         "editorBracketPairGuide.background2": "#282A33",
         "editorBracketPairGuide.background3": "#282A33",
