@@ -412,7 +412,7 @@
         "gitDecoration.untrackedResourceForeground": "#C4AA97",
         "gitDecoration.ignoredResourceForeground": "#8E837B",
         "gitDecoration.conflictingResourceForeground": "#F3C1BA",
-        "gitDecoration.submoduleResourceForeground":"#A8DBE6",
+        "gitDecoration.submoduleResourceForeground": "#A8DBE6",
         "settings.headerForeground": "#EADFD7",
         "settings.modifiedItemIndicator": "#C8E0D1",
         "settings.dropdownBackground": "#1B1C22",
