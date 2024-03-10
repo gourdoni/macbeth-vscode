@@ -777,7 +777,122 @@
         "errorLens.statusBarIconErrorForeground": "#FB8B83",
         "errorLens.statusBarIconWarningForeground": "#F9C390",
     },
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "namespace": {
+            "foreground": "#C8E0D1",
+            "fontStyle": ""
+        },
+        "class": {
+            "foreground": "#C8E7ED",
+            "fontStyle": ""
+        },
+        "enum": {
+            "foreground": "#C8E7ED",
+            "fontStyle": "",
+        },
+        "interface": {
+            "foreground": "#C8E7ED",
+            "fontStyle": "",
+        },
+        "struct": {
+            "foreground": "#C8E7ED",
+            "fontStyle": "",
+        },
+        "typeParameter": {
+            "foreground": "#C8E0D1",
+            "fontStyle": "",
+        },
+        "type": {
+            "foreground": "#C8E7ED",
+            "fontStyle": "",
+        },
+        "parameter": {
+            "foreground": "#EADFD7",
+            "fontStyle": "",
+        },
+        "variable": {
+            "foreground": "#EADFD7",
+            "fontStyle": "",
+        },
+        "property": {
+            "foreground": "#EADFD7",
+            "fontStyle": "",
+        },
+        "enumMember": {
+            "foreground": "#F6D5E7",
+            "fontStyle": "",
+        },
+        "decorator": {
+            "foreground": "#C8E7ED",
+            "fontStyle": "",
+        },
+        "event": {
+            "foreground": "#A8DBE6",
+            "fontStyle": "",
+        },
+        "function": {
+            "foreground": "#A8DBE6",
+            "fontStyle": "",
+        },
+        "method": {
+            "foreground": "#A8DBE6",
+            "fontStyle": "",
+        },
+        "macro": {
+            "foreground": "#F6D5E7",
+            "fontStyle": "",
+        },
+        "label": {
+            "foreground": "#EADFD7",
+            "fontStyle": "",
+        },
+        "comment": {
+            "foreground": "#8E837B",
+            "fontStyle": "italic",
+        },
+        "string": {
+            "foreground": "#F3C1BA",
+            "fontStyle": "",
+        },
+        "keyword": {
+            "foreground": "#FB8B83",
+            "fontStyle": "",
+        },
+        "number": {
+            "foreground": "#F6D5E7",
+            "fontStyle": "",
+        },
+        "regexp": {
+            "foreground": "#F3C1BA",
+            "fontStyle": "",
+        },
+        "operator": {
+            "foreground": "#F9C390",
+            "fontStyle": "",
+        },
+        "builtinConstant": {
+            "foreground": "#C8E0D1",
+            "fontStyle": "",
+        },
+        "selfParameter": {
+            "foreground": "#EADFD7",
+            "fontStyle": "",
+        },
+        "*.deprecated": {
+            "foreground": "#8E837B",
+            "fontStyle": "",
+        },
+    },
     "tokenColors": [
+        {
+            "name": "Python Punctuation",
+            "scope": [],
+            "settings": {
+                "foreground": "#FF0000",
+                "fontStyle": ""
+            }
+        },
         {
             "name": "Comment",
             "scope": [
