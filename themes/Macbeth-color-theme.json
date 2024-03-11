@@ -1010,18 +1010,9 @@
             }
         },
         {
-            "name": "Default Storage Type",
+            "name": "Default Storage",
             "scope": [
                 "storage.type",
-            ],
-            "settings": {
-                "foreground": "#FB8B83",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default Storage Modifier",
-            "scope": [
                 "storage.modifier",
             ],
             "settings": {
