@@ -3,6 +3,9 @@
   "displayName": "Macbeth",
   "description": "",
   "version": "0.0.1",
+  "author": {
+    "name": "Harry"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
