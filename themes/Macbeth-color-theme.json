@@ -859,6 +859,10 @@
             "foreground": "#FB8B83",
             "fontStyle": "",
         },
+        "modifier": {
+            "foreground": "#F9C390",
+            "fontStyle": "",
+        },
         "number": {
             "foreground": "#F6D5E7",
             "fontStyle": "",
@@ -924,6 +928,7 @@
             "scope": [
                 "punctuation",
                 "punctuation.definition",
+                "punctuation.section",
                 "meta.brace",
             ],
             "settings": {
@@ -946,7 +951,6 @@
             "name": "Default Separator",
             "scope": [
                 "punctuation.separator",
-                "punctuation.section",
                 "punctuation.terminator",
                 "punctuation.accessor",
             ],
@@ -1107,6 +1111,51 @@
             "name": "Default Support",
             "scope": [
                 "support.type"
+            ],
+            "settings": {
+                "foreground": "#C8E7ED",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Python Section",
+            "scope": [
+                "punctuation.section.function.begin.python",
+                "punctuation.section.class.begin.python",
+            ],
+            "settings": {
+                "foreground": "#8E837B",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Java Type",
+            "scope": [
+                "storage.type.java",
+                "storage.type.generic.java",
+                "storage.type.primitive.java",
+                "storage.type.object.array.java",
+                "storage.modifier.import.java",
+            ],
+            "settings": {
+                "foreground": "#C8E7ED",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Java Operator",
+            "scope": [
+                "keyword.control.ternary.java",
+            ],
+            "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "JSON Support Type",
+            "scope": [
+                "support.type.property-name.json",
             ],
             "settings": {
                 "foreground": "#F9C390",
