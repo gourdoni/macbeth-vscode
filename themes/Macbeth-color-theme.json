@@ -1083,6 +1083,7 @@
                 "meta.function",
                 "meta.function-call",
                 "entity.name.function",
+                "support.function",
             ],
             "settings": {
                 "foreground": "#A8DBE6",
@@ -1163,6 +1164,36 @@
                 "foreground": "#F9C390",
                 "fontStyle": ""
             }
-        }
+        },
+        {
+            "name": "Clingo Source",
+            "scope": [
+                "source.asp",
+            ],
+            "settings": {
+                "foreground": "#C4AA97",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Clingo Tag",
+            "scope": [
+                "entity.name.tag.asp",
+            ],
+            "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Clingo Function",
+            "scope": [
+                "support.function.asp",
+            ],
+            "settings": {
+                "foreground": "#FB8B83",
+                "fontStyle": "italic"
+            }
+        },
     ]
 }
