@@ -1080,6 +1080,8 @@
         {
             "name": "Default Function",
             "scope": [
+                "meta.function",
+                "meta.function-call",
                 "entity.name.function",
             ],
             "settings": {
