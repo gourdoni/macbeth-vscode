@@ -1015,6 +1015,16 @@
                 "storage.type",
             ],
             "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Default Storage Function",
+            "scope": [
+                "storage.type.function",
+            ],
+            "settings": {
                 "foreground": "#FB8B83",
                 "fontStyle": ""
             }
