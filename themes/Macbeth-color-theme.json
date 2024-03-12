@@ -1020,9 +1020,10 @@
             }
         },
         {
-            "name": "Default Storage Function",
+            "name": "Default Function, Class Keywords",
             "scope": [
                 "storage.type.function",
+                "storage.type.class",
             ],
             "settings": {
                 "foreground": "#FB8B83",
