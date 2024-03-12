@@ -1142,6 +1142,16 @@
             }
         },
         {
+            "name": "Python Tag",
+            "scope": [
+                "keyword.codetag.notation.python",
+            ],
+            "settings": {
+                "foreground": "#FB8B83",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Java Type",
             "scope": [
                 "storage.type.java",
