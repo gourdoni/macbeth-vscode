@@ -887,6 +887,10 @@
             "foreground": "#8E837B",
             "fontStyle": "bold strikethrough",
         },
+        "variable.defaultLibrary:javascript": {
+            "foreground": "#C8E7ED",
+            "fontStyle": "italic",
+        }
     },
     "tokenColors": [
         {
@@ -1015,7 +1019,7 @@
                 "storage.type",
             ],
             "settings": {
-                "foreground": "#F9C390",
+                "foreground": "#FB8B83",
                 "fontStyle": ""
             }
         },
