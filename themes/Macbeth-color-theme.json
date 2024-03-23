@@ -1187,6 +1187,16 @@
             }
         },
         {
+            "name": "YAML Tag",
+            "scope": [
+                "entity.name.tag.yaml",
+            ],
+            "settings": {
+                "foreground": "#EADFD7",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Clingo Source",
             "scope": [
                 "source.asp",
