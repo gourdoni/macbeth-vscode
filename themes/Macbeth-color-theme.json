@@ -1200,6 +1200,7 @@
             "name": "Clingo Source",
             "scope": [
                 "source.asp",
+                "support.constant.cut.asp",
             ],
             "settings": {
                 "foreground": "#C4AA97",
