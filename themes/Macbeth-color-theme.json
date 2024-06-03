@@ -1226,5 +1226,59 @@
                 "fontStyle": ""
             }
         },
+        {
+            "name": "Prolog Punctuation",
+            "scope": [
+                "variable.language.self.anonymous.prolog",
+                "constant.numeric.decimal.point.prolog",
+            ],
+            "settings": {
+                "foreground": "#8E837B",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Operator",
+            "scope": [
+                "keyword.operator.prolog",
+                "keyword.operator.assignment.prolog",
+            ],
+            "settings": {
+                "foreground": "#C4AA97",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Constant?",
+            "scope": [
+                "punctuation.section.regexp.prolog",
+            ],
+            "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Function",
+            "scope": [
+                "meta.function.definition.prolog",
+                "entity.name.function.definition.prolog",
+                "entity.name.function.call.prolog",
+            ],
+            "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Built-in Function",
+            "scope": [
+                "support.type.built-in.prolog",
+            ],
+            "settings": {
+                "foreground": "#FB8B83",
+                "fontStyle": ""
+            }
+        },
     ]
 }
