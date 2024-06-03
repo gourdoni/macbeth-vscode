@@ -833,11 +833,11 @@
         },
         "function": {
             "foreground": "#A8DBE6",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "method": {
             "foreground": "#A8DBE6",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "macro": {
             "foreground": "#F6D5E7",
@@ -849,7 +849,7 @@
         },
         "comment": {
             "foreground": "#8E837B",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "string": {
             "foreground": "#F3C1BA",
@@ -881,7 +881,7 @@
         },
         "selfParameter": {
             "foreground": "#EADFD7",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "*.deprecated": {
             "foreground": "#8E837B",
@@ -994,7 +994,7 @@
             ],
             "settings": {
                 "foreground": "#8E837B",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1098,7 +1098,7 @@
             ],
             "settings": {
                 "foreground": "#A8DBE6",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
