@@ -1280,5 +1280,15 @@
                 "fontStyle": ""
             }
         },
+        {
+            "name": "Lua Source",
+            "scope": [
+                "source.lua",
+            ],
+            "settings": {
+                "foreground": "#C4AA97",
+                "fontStyle": ""
+            }
+        },
     ]
 }
