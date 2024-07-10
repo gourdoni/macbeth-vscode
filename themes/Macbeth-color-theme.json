@@ -336,7 +336,7 @@
         "inlineChat.background": "#22232A",
         "inlineChat.border": "#1B1C2200",
         "inlineChat.shadow": "#1B1C2200",
-        "inlineChat.regionHighlight": "#C9E8EE50",
+        // "inlineChat.regionHighlight": "#C9E8EE50",
         "inlineChatInput.border": "#31333F",
         "inlineChatInput.focusBorder": "#31333F",
         "inlineChatInput.placeholderForeground": "#8E837B",
@@ -1132,10 +1132,11 @@
             }
         },
         {
-            "name": "Python Section",
+            "name": "Python Punctuation",
             "scope": [
                 "punctuation.section.function.begin.python",
                 "punctuation.section.class.begin.python",
+                "meta.function.parameters.python",
             ],
             "settings": {
                 "foreground": "#8E837B",
