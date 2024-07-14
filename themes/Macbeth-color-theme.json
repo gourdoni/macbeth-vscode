@@ -1226,5 +1226,75 @@
                 "fontStyle": ""
             }
         },
+        {
+            "name": "MiniZinc Source",
+            "scope": [
+                "source.mzn",
+            ],
+            "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "MiniZinc Comment",
+            "scope": [
+                "comment.mzn",
+            ],
+            "settings": {
+                "foreground": "#8E837B",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "MiniZinc Punctuation",
+            "scope": [
+                "punctuation.mzn",
+            ],
+            "settings": {
+                "foreground": "#C4AA97",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "MiniZinc Keyword",
+            "scope": [
+                "keyword.control.mzn",
+            ],
+            "settings": {
+                "foreground": "#FB8B83",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "MiniZinc Operator",
+            "scope": [
+                "keyword.operator.mzn",
+            ],
+            "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "MiniZinc Type",
+            "scope": [
+                "storage.type.mzn",
+            ],
+            "settings": {
+                "foreground": "#C8E7ED",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "MiniZinc Function",
+            "scope": [
+                "support.function.mzn",
+            ],
+            "settings": {
+                "foreground": "#A8DBE6",
+                "fontStyle": ""
+            }
+        },
     ]
 }
