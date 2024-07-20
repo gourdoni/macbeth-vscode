@@ -1153,6 +1153,16 @@
             }
         },
         {
+            "name": "Python Return Type Annotation",
+            "scope": [
+                "punctuation.separator.annotation.result.python",
+            ],
+            "settings": {
+                "foreground": "#F9C390",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Java Type",
             "scope": [
                 "storage.type.java",
@@ -1213,7 +1223,7 @@
                 "entity.name.tag.asp",
             ],
             "settings": {
-                "foreground": "#F9C390",
+                "foreground": "#FB8B83",
                 "fontStyle": ""
             }
         },
@@ -1221,9 +1231,10 @@
             "name": "Clingo Function",
             "scope": [
                 "support.function.asp",
+                "keyword.asp",
             ],
             "settings": {
-                "foreground": "#FB8B83",
+                "foreground": "#C8E7ED",
                 "fontStyle": ""
             }
         },
