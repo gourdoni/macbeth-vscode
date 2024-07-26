@@ -336,7 +336,7 @@
         "inlineChat.background": "#22232A",
         "inlineChat.border": "#1B1C2200",
         "inlineChat.shadow": "#1B1C2200",
-        "inlineChat.regionHighlight": "#C9E8EE50",
+        // "inlineChat.regionHighlight": "#C9E8EE50",
         "inlineChatInput.border": "#31333F",
         "inlineChatInput.focusBorder": "#31333F",
         "inlineChatInput.placeholderForeground": "#8E837B",
@@ -833,11 +833,11 @@
         },
         "function": {
             "foreground": "#A8DBE6",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "method": {
             "foreground": "#A8DBE6",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "macro": {
             "foreground": "#F6D5E7",
@@ -881,7 +881,7 @@
         },
         "selfParameter": {
             "foreground": "#EADFD7",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "*.deprecated": {
             "foreground": "#8E837B",
@@ -1098,7 +1098,7 @@
             ],
             "settings": {
                 "foreground": "#A8DBE6",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1132,10 +1132,11 @@
             }
         },
         {
-            "name": "Python Section",
+            "name": "Python Punctuation",
             "scope": [
                 "punctuation.section.function.begin.python",
                 "punctuation.section.class.begin.python",
+                "meta.function.parameters.python",
             ],
             "settings": {
                 "foreground": "#8E837B",
@@ -1293,6 +1294,16 @@
             }
         },
         {
+            "name": "Lua Source",
+            "scope": [
+                "source.lua",
+            ],
+            "settings": {
+                "foreground": "#C4AA97",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "MiniZinc Source",
             "scope": [
                 "source.mzn",
@@ -1309,7 +1320,7 @@
             ],
             "settings": {
                 "foreground": "#8E837B",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1348,7 +1359,7 @@
                 "storage.type.mzn",
             ],
             "settings": {
-                "foreground": "#FB8B83",
+                "foreground": "#C8E7ED",
                 "fontStyle": ""
             }
         },
@@ -1356,7 +1367,6 @@
             "name": "MiniZinc Function",
             "scope": [
                 "support.function.mzn",
-                "entity.name.function.mzn",
             ],
             "settings": {
                 "foreground": "#A8DBE6",
