@@ -849,7 +849,7 @@
         },
         "comment": {
             "foreground": "#8E837B",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "string": {
             "foreground": "#F3C1BA",
@@ -1164,6 +1164,17 @@
             }
         },
         {
+            "name": "Python Function",
+            "scope": [
+                "meta.function-call.python",
+                "meta.function-call.generic.python",
+            ],
+            "settings": {
+                "foreground": "#A8DBE6",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Java Type",
             "scope": [
                 "storage.type.java",
@@ -1193,7 +1204,7 @@
                 "support.type.property-name.json",
             ],
             "settings": {
-                "foreground": "#F9C390",
+                "foreground": "#FB8B83",
                 "fontStyle": ""
             }
         },
