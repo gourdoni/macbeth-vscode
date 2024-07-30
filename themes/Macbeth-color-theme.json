@@ -849,7 +849,7 @@
         },
         "comment": {
             "foreground": "#8E837B",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "string": {
             "foreground": "#F3C1BA",
@@ -1144,6 +1144,18 @@
             }
         },
         {
+            "name": "Python Function",
+            "scope": [
+                "entity.name.function.python",
+                "meta.function-call.python",
+                "meta.function-call.generic.python",
+            ],
+            "settings": {
+                "foreground": "#A8DBE6",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Python Tag",
             "scope": [
                 "keyword.codetag.notation.python",
@@ -1160,17 +1172,6 @@
             ],
             "settings": {
                 "foreground": "#F9C390",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Python Function",
-            "scope": [
-                "meta.function-call.python",
-                "meta.function-call.generic.python",
-            ],
-            "settings": {
-                "foreground": "#A8DBE6",
                 "fontStyle": ""
             }
         },
