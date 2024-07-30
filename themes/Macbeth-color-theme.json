@@ -840,7 +840,11 @@
             "fontStyle": "",
         },
         "macro": {
-            "foreground": "#F6D5E7",
+            "foreground": "#C8E7ED",
+            "fontStyle": "",
+        },
+        "macro:c": {
+            "foreground": "#EADFD7",
             "fontStyle": "",
         },
         "label": {
@@ -1125,6 +1129,36 @@
             "name": "Default Support",
             "scope": [
                 "support.type"
+            ],
+            "settings": {
+                "foreground": "#C8E7ED",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "C Storage Modifier",
+            "scope": [
+                "storage.modifier.c",
+            ],
+            "settings": {
+                "foreground": "#FB8B83",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "C Array Modifier",
+            "scope": [
+                "storage.modifier.array.bracket.square.c",
+            ],
+            "settings": {
+                "foreground": "#C4AA97",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "C Preprocessor",
+            "scope": [
+                "entity.name.function.preprocessor.c",
             ],
             "settings": {
                 "foreground": "#C8E7ED",
