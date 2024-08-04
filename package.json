@@ -18,6 +18,11 @@
         "label": "Macbeth",
         "uiTheme": "vs-dark",
         "path": "./themes/Macbeth-color-theme.json"
+      },
+      {
+        "label": "Macbeth Revised",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Macbeth-Revised-color-theme.json"
       }
     ]
   }
