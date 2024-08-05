@@ -1227,6 +1227,26 @@
             }
         },
         {
+            "name": "Python F String",
+            "scope": [
+                "storage.type.string.python"
+            ],
+            "settings": {
+                "foreground": "#FFC6C2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Python Placeholder",
+            "scope": [
+                "constant.character.format.placeholder.other.python"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Python Result Annotation",
             "scope": [
                 "punctuation.separator.annotation.result.python"
