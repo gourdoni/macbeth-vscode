@@ -784,8 +784,8 @@
             "fontStyle": ""
         },
         "module": {
-            "foreground": "#EEE4DD",
-            "fontStyle": ""
+            "foreground": "#F4C2DE",
+            "fontStyle": "italic"
         },
         "class": {
             "foreground": "#FFE2F2",
