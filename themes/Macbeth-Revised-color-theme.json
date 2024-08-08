@@ -1327,6 +1327,16 @@
                 "foreground": "#D5C5B8",
                 "fontStyle": ""
             }
+        },
+        {
+            "name": "Prolog Source",
+            "scope": [
+                "source.prolog"
+            ],
+            "settings": {
+                "foreground": "#D5C5B8",
+                "fontStyle": ""
+            }
         }
     ]
 }
