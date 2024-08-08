@@ -1278,12 +1278,32 @@
             }
         },
         {
+            "name": "Prolog Anonymous Variable",
+            "scope": [
+                "variable.language.self.anonymous.prolog"
+            ],
+            "settings": {
+                "foreground": "#EEE4DD",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Prolog Constant",
             "scope": [
                 "punctuation.section.regexp.prolog"
             ],
             "settings": {
                 "foreground": "#FFC6C2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog List",
+            "scope": [
+                "punctuation.definition.list.prolog"
+            ],
+            "settings": {
+                "foreground": "#706A66",
                 "fontStyle": ""
             }
         },
