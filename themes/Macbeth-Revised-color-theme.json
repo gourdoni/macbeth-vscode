@@ -55,9 +55,9 @@
         "inputValidation.infoBackground": "#A8DBE6C0",
         "inputValidation.infoForeground": "#EEE4DD",
         "inputValidation.infoBorder": "#A8DBE6",
-        "inputValidation.warningBackground": "#D2BFB2C0",
+        "inputValidation.warningBackground": "#D5C5B8C0",
         "inputValidation.warningForeground": "#EEE4DD",
-        "inputValidation.warningBorder": "#D2BFB2",
+        "inputValidation.warningBorder": "#D5C5B8",
         "scrollbar.shadow": "#1B1C2200",
         "scrollbarSlider.activeBackground": "#282A33",
         "scrollbarSlider.background": "#22232A",
@@ -84,7 +84,7 @@
         "list.inactiveFocusOutline": "#1B1C2200",
         "list.invalidItemForeground": "#FFD0CC",
         "list.errorForeground": "#FF978F",
-        "list.warningForeground": "#D2BFB2",
+        "list.warningForeground": "#D5C5B8",
         "listFilterWidget.background": "#1B1C22",
         "listFilterWidget.outline": "#1B1C2200",
         "listFilterWidget.noMatchesOutline": "#FFD0CC",
@@ -124,7 +124,7 @@
         "minimap.findMatchHighlight": "#C8E0D1C0",
         "minimap.selectionHighlight": "#C4AA97C0",
         "minimap.errorHighlight": "#FF978F",
-        "minimap.warningHighlight": "#D2BFB2",
+        "minimap.warningHighlight": "#D5C5B8",
         "minimap.background": "#22232A",
         "minimap.selectionOccurrenceHighlight": "#706A66DC",
         "minimap.foregroundOpacity": "#000000DC",
@@ -272,7 +272,7 @@
         "editorOverviewRuler.addedForeground": "#C8E0D1",
         "editorOverviewRuler.deletedForeground": "#FFD0CC",
         "editorOverviewRuler.errorForeground": "#FF978F",
-        "editorOverviewRuler.warningForeground": "#D2BFB2",
+        "editorOverviewRuler.warningForeground": "#D5C5B8",
         "editorOverviewRuler.infoForeground": "#C8E7ED",
         "editorOverviewRuler.bracketMatchForeground": "#C4AA97",
         "editorOverviewRuler.inlineChatInserted": "#C8E7ED",
@@ -280,16 +280,16 @@
         "editorError.foreground": "#FF978F",
         "editorError.border": "#FF978F00",
         "editorError.background": "#FF978F00",
-        "editorWarning.foreground": "#D2BFB2",
-        "editorWarning.border": "#D2BFB200",
-        "editorWarning.background": "#D2BFB200",
+        "editorWarning.foreground": "#D5C5B8",
+        "editorWarning.border": "#D5C5B800",
+        "editorWarning.background": "#D5C5B800",
         "editorInfo.foreground": "#C8E7ED",
         "editorInfo.border": "#C8E7ED00",
         "editorInfo.background": "#C8E7ED00",
         "editorHint.foreground": "#F6D5E7",
         "editorHint.border": "#F6D5E700",
         "problemsErrorIcon.foreground": "#FF978F",
-        "problemsWarningIcon.foreground": "#D2BFB2",
+        "problemsWarningIcon.foreground": "#D5C5B8",
         "problemsInfoIcon.foreground": "#C8E7ED",
         "editorUnnecessaryCode.border": "#706A6600",
         "editorUnnecessaryCode.opacity": "#000000C0",
@@ -458,9 +458,9 @@
         "statusBarItem.errorHoverBackground": "#282A33",
         "statusBarItem.errorHoverForeground": "#FF978F",
         "statusBarItem.warningBackground": "#1B1C22",
-        "statusBarItem.warningForeground": "#D2BFB2",
+        "statusBarItem.warningForeground": "#D5C5B8",
         "statusBarItem.warningHoverBackground": "#282A33",
-        "statusBarItem.warningHoverForeground": "#D2BFB2",
+        "statusBarItem.warningHoverForeground": "#D5C5B8",
         "statusBarItem.compactHoverBackground": "#282A33",
         "statusBarItem.focusBorder": "#1B1C2200",
         "statusBar.focusBorder": "#282A33",
@@ -501,7 +501,7 @@
         "notifications.border": "#1B1C2200",
         "notificationLink.foreground": "#C8E0D1",
         "notificationsErrorIcon.foreground": "#FF978F",
-        "notificationsWarningIcon.foreground": "#D2BFB2",
+        "notificationsWarningIcon.foreground": "#D5C5B8",
         "notificationsInfoIcon.foreground": "#C9E8EE",
         "banner.background": "#282A33",
         "banner.foreground": "#EEE4DD",
@@ -517,7 +517,7 @@
         "extensionBadge.remoteForeground": "#1B1C22",
         "extensionIcon.starForeground": "#C9E8EEDF",
         "extensionIcon.verifiedForeground": "#C8E0D1DF",
-        "extensionIcon.preReleaseForeground": "#D2BFB2EF",
+        "extensionIcon.preReleaseForeground": "#D5C5B8EF",
         "extensionIcon.sponsorForeground": "#C9E8EEDF",
         "pickerGroup.border": "#31333F",
         "pickerGroup.foreground": "#C4AA97",
@@ -579,8 +579,8 @@
         "editor.inlineValuesBackground": "#F6D5E740",
         "debugView.exceptionLabelForeground": "#FF978F",
         "debugView.exceptionLabelBackground": "#FF978F40",
-        "debugView.stateLabelForeground": "#D2BFB2",
-        "debugView.stateLabelBackground": "#D2BFB240",
+        "debugView.stateLabelForeground": "#D5C5B8",
+        "debugView.stateLabelBackground": "#D5C5B840",
         "debugView.valueChangedHighlight": "#C8E0D140",
         "debugTokenExpression.name": "#A8DBE6",
         "debugTokenExpression.value": "#C9E8EE",
@@ -682,7 +682,7 @@
         "symbolIcon.nullForeground": "#F6D5E7",
         "symbolIcon.numberForeground": "#F6D5E7",
         "symbolIcon.objectForeground": "#C9E8EE",
-        "symbolIcon.operatorForeground": "#D2BFB2",
+        "symbolIcon.operatorForeground": "#D5C5B8",
         "symbolIcon.packageForeground": "#F6D5E7",
         "symbolIcon.propertyForeground": "#EEE4DD",
         "symbolIcon.referenceForeground": "#EEE4DD",
@@ -695,7 +695,7 @@
         "symbolIcon.variableForeground": "#EEE4DD",
         "debugIcon.breakpointForeground": "#FF978F",
         "debugIcon.breakpointDisabledForeground": "#C4AA97",
-        "debugIcon.breakpointUnverifiedForeground": "#D2BFB2",
+        "debugIcon.breakpointUnverifiedForeground": "#D5C5B8",
         "debugIcon.breakpointCurrentStackframeForeground": "#A8DBE6",
         "debugIcon.breakpointStackframeForeground": "#C9E8EE",
         "debugIcon.startForeground": "#C8E0D1",
@@ -709,7 +709,7 @@
         "debugIcon.continueForeground": "#C9E8EE",
         "debugIcon.stepBackForeground": "#C9E8EE",
         "debugConsole.infoForeground": "#C9E8EE",
-        "debugConsole.warningForeground": "#D2BFB2",
+        "debugConsole.warningForeground": "#D5C5B8",
         "debugConsole.errorForeground": "#FF978F",
         "debugConsole.sourceForeground": "#EEE4DD",
         "debugConsoleInputIcon.foreground": "#C9E8EE",
@@ -742,7 +742,7 @@
         "charts.red": "#FF978F",
         "charts.blue": "#C9E8EE",
         "charts.yellow": "#FFD0CC",
-        "charts.orange": "#D2BFB2",
+        "charts.orange": "#D5C5B8",
         "charts.green": "#C8E0D1",
         "charts.purple": "#F6D5E7",
         "ports.iconRunningProcessForeground": "#C9E8EE",
@@ -758,10 +758,10 @@
         "errorLens.errorForeground": "#FF978F",
         "errorLens.errorMessageBackground": "#FF978F20",
         "errorLens.errorRangeBackground": "#FF978F20",
-        "errorLens.warningBackground": "#D2BFB220",
-        "errorLens.warningForeground": "#D2BFB2",
-        "errorLens.warningMessageBackground": "#D2BFB220",
-        "errorLens.warningRangeBackground": "#D2BFB220",
+        "errorLens.warningBackground": "#D5C5B820",
+        "errorLens.warningForeground": "#D5C5B8",
+        "errorLens.warningMessageBackground": "#D5C5B820",
+        "errorLens.warningRangeBackground": "#D5C5B820",
         "errorLens.infoBackground": "#C8E7ED20",
         "errorLens.infoForeground": "#C8E7ED",
         "errorLens.infoMessageBackground": "#C8E7ED20",
@@ -771,11 +771,11 @@
         "errorLens.hintMessageBackground": "#F6D5E720",
         "errorLens.hintRangeBackground": "#F6D5E720",
         "errorLens.statusBarErrorForeground": "#FF978F",
-        "errorLens.statusBarWarningForeground": "#D2BFB2",
+        "errorLens.statusBarWarningForeground": "#D5C5B8",
         "errorLens.statusBarInfoForeground": "#C8E7ED",
         "errorLens.statusBarHintForeground": "#F6D5E7",
         "errorLens.statusBarIconErrorForeground": "#FF978F",
-        "errorLens.statusBarIconWarningForeground": "#D2BFB2",
+        "errorLens.statusBarIconWarningForeground": "#D5C5B8",
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -876,7 +876,7 @@
             "fontStyle": "",
         },
         "operator": {
-            "foreground": "#D2BFB2",
+            "foreground": "#D5C5B8",
             "fontStyle": "",
         },
         "builtinConstant": {
@@ -888,7 +888,7 @@
             "fontStyle": "italic",
         },
         "*.deprecated": {
-            "foreground": "#D2BFB2",
+            "foreground": "#D5C5B8",
             "fontStyle": "bold strikethrough",
         },
     },
@@ -1059,7 +1059,7 @@
                 "keyword.operator",
             ],
             "settings": {
-                "foreground": "#D2BFB2",
+                "foreground": "#D5C5B8",
                 "fontStyle": ""
             }
         },
@@ -1252,7 +1252,7 @@
                 "punctuation.separator.annotation.result.python"
             ],
             "settings": {
-                "foreground": "#D2BFB2",
+                "foreground": "#D5C5B8",
                 "fontStyle": ""
             }
         },
@@ -1264,6 +1264,68 @@
             "settings": {
                 "foreground": "#FF978F",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Prolog Variable",
+            "scope": [
+                "variable.parameter.prolog",
+                "variable.other.prolog",
+            ],
+            "settings": {
+                "foreground": "#EEE4DD",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Constant",
+            "scope": [
+                "punctuation.section.regexp.prolog"
+            ],
+            "settings": {
+                "foreground": "#FFC6C2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Function Definition",
+            "scope": [
+                "entity.name.function.definition.prolog",
+            ],
+            "settings": {
+                "foreground": "#FF978F",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Function Call",
+            "scope": [
+                "entity.name.function.call.prolog",
+                "support.type.built-in.prolog"
+            ],
+            "settings": {
+                "foreground": "#FF978F",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Punctuation",
+            "scope": [
+                "constant.numeric.decimal.point.prolog"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Operator",
+            "scope": [
+                "keyword.operator.prolog"
+            ],
+            "settings": {
+                "foreground": "#D5C5B8",
+                "fontStyle": ""
             }
         }
     ]
