@@ -1293,7 +1293,7 @@
                 "punctuation.section.regexp.prolog"
             ],
             "settings": {
-                "foreground": "#FFC6C2",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
