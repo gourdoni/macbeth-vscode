@@ -1311,6 +1311,7 @@
             "name": "Prolog Function Definition",
             "scope": [
                 "entity.name.function.definition.prolog",
+                "meta.function.definition.prolog"
             ],
             "settings": {
                 "foreground": "#FF978F",
@@ -1335,6 +1336,17 @@
             ],
             "settings": {
                 "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog List",
+            "scope": [
+                "punctuation.definition.list.prolog",
+                "punctuation.section.binding-pattern.prolog"
+            ],
+            "settings": {
+                "foreground": "#FF978F",
                 "fontStyle": ""
             }
         },
