@@ -1369,6 +1369,37 @@
                 "foreground": "#D5C5B8",
                 "fontStyle": ""
             }
+        },
+        {
+            "name": "Go Mod",
+            "scope": [
+                "go.mod"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Go Import",
+            "scope": [
+                "entity.name.import.go"
+            ],
+            "settings": {
+                "foreground": "#FFC6C2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Go Function",
+            "scope": [
+                "entity.name.function.go",
+                "entity.name.function.support.go"
+            ],
+            "settings": {
+                "foreground": "#FFE2F2",
+                "fontStyle": "italic"
+            }
         }
     ]
 }
