@@ -1400,6 +1400,36 @@
                 "foreground": "#FFE2F2",
                 "fontStyle": "italic"
             }
+        },
+        {
+            "name": "Make Source",
+            "scope": [
+                "source.makefile"
+            ],
+            "settings": {
+                "foreground": "#FFC6C2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Make Variable",
+            "scope": [
+                "variable.other.makefile"
+            ],
+            "settings": {
+                "foreground": "#F4C2DE",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Make Target",
+            "scope": [
+                "entity.name.function.target.makefile"
+            ],
+            "settings": {
+                "foreground": "#FF978F",
+                "fontStyle": ""
+            }
         }
     ]
 }
