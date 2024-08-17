@@ -1402,6 +1402,18 @@
             }
         },
         {
+            "name": "Go Type",
+            "scope": [
+                "storage.type.numeric.go",
+                "storage.type.boolean.go",
+                "storage.type.string.go"
+            ],
+            "settings": {
+                "foreground": "#FFE2F2",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Make Source",
             "scope": [
                 "source.makefile"
