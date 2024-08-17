@@ -1405,6 +1405,7 @@
             "name": "Go Type",
             "scope": [
                 "storage.type.numeric.go",
+                "storage.type.byte.go",
                 "storage.type.boolean.go",
                 "storage.type.string.go"
             ],
