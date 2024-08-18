@@ -785,7 +785,7 @@
         },
         "module": {
             "foreground": "#F4C2DE",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "class": {
             "foreground": "#FFE2F2",
@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "macro": {
             "foreground": "#EEE4DD",
@@ -853,7 +853,7 @@
         },
         "comment": {
             "foreground": "#706A66",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "string": {
             "foreground": "#FFC6C2",
@@ -885,7 +885,7 @@
         },
         "selfParameter": {
             "foreground": "#F4C2DE",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "*.deprecated": {
             "foreground": "#D5C5B8",
@@ -962,7 +962,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1151,7 +1151,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1213,7 +1213,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1263,7 +1263,7 @@
             ],
             "settings": {
                 "foreground": "#FF978F",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1398,7 +1398,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1407,7 +1407,8 @@
                 "storage.type.numeric.go",
                 "storage.type.byte.go",
                 "storage.type.boolean.go",
-                "storage.type.string.go"
+                "storage.type.string.go",
+                "storage.type.error.go"
             ],
             "settings": {
                 "foreground": "#FFE2F2",
