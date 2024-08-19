@@ -1404,6 +1404,7 @@
         {
             "name": "Go Type",
             "scope": [
+                "keyword.map.go",
                 "storage.type.numeric.go",
                 "storage.type.byte.go",
                 "storage.type.boolean.go",
