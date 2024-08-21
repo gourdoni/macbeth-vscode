@@ -1381,6 +1381,18 @@
             }
         },
         {
+            "name": "Go Comment",
+            "scope": [
+                "punctuation.definition.comment.go",
+                "comment.block.go",
+                "comment.line.double-slash.go",
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Go Import",
             "scope": [
                 "entity.name.import.go"
