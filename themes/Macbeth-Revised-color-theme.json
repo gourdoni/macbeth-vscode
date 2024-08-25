@@ -1460,7 +1460,9 @@
         {
             "name": "Rust Operator",
             "scope": [
-                "keyword.operator.assignment.equal.rust"
+                "keyword.operator.assignment.equal.rust",
+                "keyword.operator.key-value.rust",
+                "keyword.operator.arrow.skinny.rust"
             ],
             "settings": {
                 "foreground": "#EEE4DD",
