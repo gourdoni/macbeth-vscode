@@ -844,7 +844,7 @@
             "fontStyle": "",
         },
         "macro": {
-            "foreground": "#EEE4DD",
+            "foreground": "#FFE2F2",
             "fontStyle": "",
         },
         "label": {
@@ -857,6 +857,10 @@
         },
         "string": {
             "foreground": "#FFC6C2",
+            "fontStyle": "",
+        },
+        "escapeSequence": {
+            "foreground": "#FF978F",
             "fontStyle": "",
         },
         "keyword": {
@@ -1425,6 +1429,41 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Rust Punctuation",
+            "scope": [
+                "punctuation.brackets.round.rust",
+                "punctuation.brackets.curly.rust",
+                "punctuation.definition.interpolation.rust",
+                "punctuation.semi.rust"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Rust Keyword",
+            "scope": [
+                "keyword.other.fn.rust",
+                "storage.type.rust",
+                "storage.modifier.mut.rust"
+            ],
+            "settings": {
+                "foreground": "#FF978F",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Rust Operator",
+            "scope": [
+                "keyword.operator.assignment.equal.rust"
+            ],
+            "settings": {
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
