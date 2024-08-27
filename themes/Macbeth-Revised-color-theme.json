@@ -853,7 +853,7 @@
         },
         "comment": {
             "foreground": "#706A66",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "string": {
             "foreground": "#FFC6C2",
