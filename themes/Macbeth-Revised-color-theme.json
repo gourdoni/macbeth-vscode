@@ -1429,6 +1429,17 @@
             }
         },
         {
+            "name": "Go Specifier",
+            "scope": [
+                "constant.other.placeholder.go",
+                "constant.character.escape.go"
+            ],
+            "settings": {
+                "foreground": "#FF978F",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Make Source",
             "scope": [
                 "source.makefile"
