@@ -780,7 +780,7 @@
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "namespace": {
-            "foreground": "#EEE4DD",
+            "foreground": "#F4C2DE",
             "fontStyle": ""
         },
         "module": {
@@ -828,8 +828,12 @@
             "fontStyle": "",
         },
         "decorator": {
-            "foreground": "#F4C2DE",
-            "fontStyle": "",
+            "foreground": "#FFE2F2",
+            "fontStyle": "italic",
+        },
+        "class.decorator": {
+            "foreground": "#FFE2F2",
+            "fontStyle": "italic",
         },
         "event": {
             "foreground": "#F4C2DE",
@@ -837,11 +841,11 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "",
+            "fontStyle": "italic",
         },
         "macro": {
             "foreground": "#FFE2F2",
@@ -888,8 +892,8 @@
             "fontStyle": "",
         },
         "selfParameter": {
-            "foreground": "#F4C2DE",
-            "fontStyle": "",
+            "foreground": "#FFE2F2",
+            "fontStyle": "italic",
         },
         "*.deprecated": {
             "foreground": "#D5C5B8",
@@ -966,7 +970,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1115,7 +1119,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
