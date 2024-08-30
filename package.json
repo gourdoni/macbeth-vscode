@@ -23,6 +23,11 @@
         "label": "Macbeth Revised",
         "uiTheme": "vs-dark",
         "path": "./themes/Macbeth-Revised-color-theme.json"
+      },
+      {
+        "label": "Othello",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Othello-color-theme.json"
       }
     ]
   }
