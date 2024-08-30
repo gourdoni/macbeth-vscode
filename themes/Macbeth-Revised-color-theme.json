@@ -1418,7 +1418,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
