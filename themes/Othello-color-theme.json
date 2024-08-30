@@ -844,7 +844,7 @@
             "fontStyle": "italic",
         },
         "macro": {
-            "foreground": "#DDA7B8",
+            "foreground": "#FFD7BC",
             "fontStyle": "",
         },
         "label": {
@@ -880,7 +880,7 @@
             "fontStyle": "",
         },
         "operator": {
-            "foreground": "#DDA7B8",
+            "foreground": "#F8A5AD",
             "fontStyle": "",
         },
         "builtinConstant": {
@@ -1045,7 +1045,7 @@
                 "keyword.operator",
             ],
             "settings": {
-                "foreground": "#DDA7B8",
+                "foreground": "#F8A5AD",
                 "fontStyle": ""
             }
         },
@@ -1128,6 +1128,51 @@
             "settings": {
                 "foreground": "#FFD7BC",
                 "fontStyle": ""
+            }
+        },
+        {
+            "name": "Go Type",
+            "scope": [
+                "storage.type.numeric.go",
+                "storage.type.byte.go",
+                "storage.type.boolean.go",
+                "storage.type.error.go",
+                "storage.type.string.go"
+            ],
+            "settings": {
+                "foreground": "#D7E2DC",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Go Placeholder",
+            "scope": [
+                "constant.other.placeholder.go"
+            ],
+            "settings": {
+                "foreground": "#F8A5AD",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Go Escape",
+            "scope": [
+                "constant.character.escape.go"
+            ],
+            "settings": {
+                "foreground": "#F8A5AD",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Go Function",
+            "scope": [
+                "entity.name.function.go",
+                "entity.name.function.support.go"
+            ],
+            "settings": {
+                "foreground": "#FFD7BC",
+                "fontStyle": "italic"
             }
         }
     ]
