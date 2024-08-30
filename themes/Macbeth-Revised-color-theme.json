@@ -1428,8 +1428,8 @@
                 "storage.type.numeric.go",
                 "storage.type.byte.go",
                 "storage.type.boolean.go",
-                "storage.type.string.go",
-                "storage.type.error.go"
+                "storage.type.error.go",
+                "storage.type.string.go"
             ],
             "settings": {
                 "foreground": "#FFE2F2",
@@ -1466,6 +1466,16 @@
                 "keyword.other.fn.rust",
                 "storage.type.rust",
                 "storage.modifier.mut.rust"
+            ],
+            "settings": {
+                "foreground": "#FF978F",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Rust Variable",
+            "scope": [
+                "variable.other.rust"
             ],
             "settings": {
                 "foreground": "#FF978F",
