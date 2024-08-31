@@ -1168,7 +1168,8 @@
             "name": "Go Function",
             "scope": [
                 "entity.name.function.go",
-                "entity.name.function.support.go"
+                "entity.name.function.support.go",
+                "entity.name.function.support.builtin.go"
             ],
             "settings": {
                 "foreground": "#FFD7BC",
