@@ -872,7 +872,7 @@
             "fontStyle": "",
         },
         "number": {
-            "foreground": "#FFE5DA",
+            "foreground": "#DDA7B8",
             "fontStyle": "",
         },
         "regexp": {
@@ -884,7 +884,7 @@
             "fontStyle": "",
         },
         "builtinConstant": {
-            "foreground": "#FFE5DA",
+            "foreground": "#DDA7B8",
             "fontStyle": "",
         },
         "selfParameter": {
@@ -1058,7 +1058,7 @@
                 "support.constant"
             ],
             "settings": {
-                "foreground": "#D7E2DC",
+                "foreground": "#DDA7B8",
                 "fontStyle": ""
             }
         },
@@ -1068,7 +1068,7 @@
                 "constant.numeric"
             ],
             "settings": {
-                "foreground": "#FFE5DA",
+                "foreground": "#DDA7B8",
                 "fontStyle": ""
             }
         },
@@ -1150,7 +1150,7 @@
                 "constant.other.placeholder.go"
             ],
             "settings": {
-                "foreground": "#F8A5AD",
+                "foreground": "#DDA7B8",
                 "fontStyle": ""
             }
         },
@@ -1160,7 +1160,7 @@
                 "constant.character.escape.go"
             ],
             "settings": {
-                "foreground": "#F8A5AD",
+                "foreground": "#DDA7B8",
                 "fontStyle": ""
             }
         },
