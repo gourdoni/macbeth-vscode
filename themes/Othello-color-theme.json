@@ -781,11 +781,11 @@
     "semanticTokenColors": {
         "namespace": {
             "foreground": "#A4CBC9",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "module": {
             "foreground": "#A4CBC9",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "class": {
             "foreground": "#D7E2DC",
@@ -872,7 +872,7 @@
             "fontStyle": "",
         },
         "number": {
-            "foreground": "#DDA7B8",
+            "foreground": "#FFE5DA",
             "fontStyle": "",
         },
         "regexp": {
@@ -884,7 +884,7 @@
             "fontStyle": "",
         },
         "builtinConstant": {
-            "foreground": "#DDA7B8",
+            "foreground": "#FFE5DA",
             "fontStyle": "",
         },
         "selfParameter": {
@@ -1058,7 +1058,7 @@
                 "support.constant"
             ],
             "settings": {
-                "foreground": "#DDA7B8",
+                "foreground": "#FFE5DA",
                 "fontStyle": ""
             }
         },
@@ -1068,7 +1068,7 @@
                 "constant.numeric"
             ],
             "settings": {
-                "foreground": "#DDA7B8",
+                "foreground": "#FFE5DA",
                 "fontStyle": ""
             }
         },
@@ -1174,6 +1174,16 @@
             "settings": {
                 "foreground": "#FFD7BC",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Prolog Constant",
+            "scope": [
+                "punctuation.section.regexp.prolog"
+            ],
+            "settings": {
+                "foreground": "#FFE5DA",
+                "fontStyle": ""
             }
         }
     ]
