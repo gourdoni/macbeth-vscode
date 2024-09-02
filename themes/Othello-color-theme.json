@@ -781,11 +781,11 @@
     "semanticTokenColors": {
         "namespace": {
             "foreground": "#A4CBC9",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "module": {
             "foreground": "#A4CBC9",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "class": {
             "foreground": "#D7E2DC",
@@ -824,7 +824,7 @@
             "fontStyle": "",
         },
         "enumMember": {
-            "foreground": "#A4CBC9",
+            "foreground": "#D7E2DC",
             "fontStyle": "",
         },
         "decorator": {
@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#FFD7BC",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "method": {
             "foreground": "#FFD7BC",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "macro": {
             "foreground": "#FFD7BC",
@@ -880,7 +880,7 @@
             "fontStyle": "",
         },
         "operator": {
-            "foreground": "#F8A5AD",
+            "foreground": "#DDA7B8",
             "fontStyle": "",
         },
         "builtinConstant": {
@@ -1045,7 +1045,7 @@
                 "keyword.operator",
             ],
             "settings": {
-                "foreground": "#F8A5AD",
+                "foreground": "#DDA7B8",
                 "fontStyle": ""
             }
         },
@@ -1173,7 +1173,7 @@
             ],
             "settings": {
                 "foreground": "#FFD7BC",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
