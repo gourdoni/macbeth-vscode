@@ -803,24 +803,24 @@
             "foreground": "#FFE2F2",
             "fontStyle": "",
         },
-        "typeParameter": {
-            "foreground": "#FFE2F2",
-            "fontStyle": "",
-        },
         "type": {
             "foreground": "#FFE2F2",
             "fontStyle": "",
         },
-        "parameter": {
+        "typeParameter": {
             "foreground": "#F4C2DE",
+            "fontStyle": "",
+        },
+        "parameter": {
+            "foreground": "#EADFD7",
             "fontStyle": "",
         },
         "variable": {
-            "foreground": "#F4C2DE",
+            "foreground": "#EADFD7",
             "fontStyle": "",
         },
         "property": {
-            "foreground": "#F4C2DE",
+            "foreground": "#EADFD7",
             "fontStyle": "",
         },
         "enumMember": {
@@ -829,11 +829,11 @@
         },
         "decorator": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "class.decorator": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "event": {
             "foreground": "#F4C2DE",
@@ -841,11 +841,11 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "macro": {
             "foreground": "#FFE2F2",
@@ -857,7 +857,7 @@
         },
         "comment": {
             "foreground": "#706A66",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "string": {
             "foreground": "#FFC6C2",
@@ -893,7 +893,7 @@
         },
         "selfParameter": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic",
+            "fontStyle": "",
         },
         "*.deprecated": {
             "foreground": "#D5C5B8",

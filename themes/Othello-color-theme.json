@@ -1173,6 +1173,26 @@
             }
         },
         {
+            "name": "Go Rune",
+            "scope": [
+                "constant.other.rune.go"
+            ],
+            "settings": {
+                "foreground": "#FFE5DA",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Go String",
+            "scope": [
+                "string.double.quoted.go"
+            ],
+            "settings": {
+                "foreground": "#FFE5DA",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Prolog Constant",
             "scope": [
                 "punctuation.section.regexp.prolog"
