@@ -848,7 +848,7 @@
             "fontStyle": "",
         },
         "label": {
-            "foreground": "#F4E6F0",
+            "foreground": "#DDA7B8",
             "fontStyle": "",
         },
         "comment": {
@@ -860,11 +860,11 @@
             "fontStyle": "",
         },
         "escapeSequence": {
-            "foreground": "#DDA7B8",
+            "foreground": "#F8A5AD",
             "fontStyle": "",
         },
         "keyword": {
-            "foreground": "#F8A5AD",
+            "foreground": "#FF85AB",
             "fontStyle": "",
         },
         "modifier": {
@@ -872,7 +872,7 @@
             "fontStyle": "",
         },
         "number": {
-            "foreground": "#FFE5DA",
+            "foreground": "#DDA7B8",
             "fontStyle": "",
         },
         "regexp": {
@@ -880,21 +880,17 @@
             "fontStyle": "",
         },
         "operator": {
-            "foreground": "#DDA7B8",
+            "foreground": "#F8A5AD",
             "fontStyle": "",
         },
         "builtinConstant": {
-            "foreground": "#FFE5DA",
+            "foreground": "#DDA7B8",
             "fontStyle": "",
         },
         "selfParameter": {
             "foreground": "#A4CBC9",
-            "fontStyle": "italic",
-        },
-        "*.deprecated": {
-            "foreground": "#F4E6F0",
-            "fontStyle": "strikethrough",
-        },
+            "fontStyle": "",
+        }
     },
     "tokenColors": [
         {
@@ -904,7 +900,7 @@
                 "source",
             ],
             "settings": {
-                "foreground": "#F4E6F0",
+                "foreground": "#A4CBC9",
                 "fontStyle": ""
             }
         },
@@ -1001,7 +997,7 @@
                 "constant.character.format"
             ],
             "settings": {
-                "foreground": "#DDA7B8",
+                "foreground": "#F8A5AD",
                 "fontStyle": ""
             }
         },
@@ -1013,7 +1009,7 @@
                 "keyword.other",
             ],
             "settings": {
-                "foreground": "#F8A5AD",
+                "foreground": "#FF85AB",
                 "fontStyle": ""
             }
         },
@@ -1045,7 +1041,7 @@
                 "keyword.operator",
             ],
             "settings": {
-                "foreground": "#DDA7B8",
+                "foreground": "#F8A5AD",
                 "fontStyle": ""
             }
         },
@@ -1058,7 +1054,7 @@
                 "support.constant"
             ],
             "settings": {
-                "foreground": "#FFE5DA",
+                "foreground": "#DDA7B8",
                 "fontStyle": ""
             }
         },
@@ -1068,7 +1064,7 @@
                 "constant.numeric"
             ],
             "settings": {
-                "foreground": "#FFE5DA",
+                "foreground": "#DDA7B8",
                 "fontStyle": ""
             }
         },
