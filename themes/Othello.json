@@ -336,7 +336,7 @@
         "inlineChat.background": "#22232A",
         "inlineChat.border": "#1B1C2200",
         "inlineChat.shadow": "#1B1C2200",
-        // "inlineChat.regionHighlight": "#D7E2DC50",
+        "inlineChat.regionHighlight": "#D7E2DC50",
         "inlineChatInput.border": "#31333F",
         "inlineChatInput.focusBorder": "#31333F",
         "inlineChatInput.placeholderForeground": "#706A66",
@@ -775,7 +775,7 @@
         "errorLens.statusBarInfoForeground": "#D7E2DC",
         "errorLens.statusBarHintForeground": "#DDA7B8",
         "errorLens.statusBarIconErrorForeground": "#FF85AB",
-        "errorLens.statusBarIconWarningForeground": "#D5C5B8",
+        "errorLens.statusBarIconWarningForeground": "#D5C5B8"
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -793,103 +793,103 @@
         },
         "enum": {
             "foreground": "#D7E2DC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "interface": {
             "foreground": "#D7E2DC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "struct": {
             "foreground": "#D7E2DC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "typeParameter": {
             "foreground": "#D7E2DC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "type": {
             "foreground": "#D7E2DC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "parameter": {
             "foreground": "#A4CBC9",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "variable": {
             "foreground": "#A4CBC9",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "property": {
             "foreground": "#A4CBC9",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "enumMember": {
             "foreground": "#D7E2DC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "decorator": {
             "foreground": "#FFD7BC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "event": {
             "foreground": "#FFD7BC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "function": {
             "foreground": "#FFD7BC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "method": {
             "foreground": "#FFD7BC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "macro": {
             "foreground": "#FFD7BC",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "label": {
             "foreground": "#DDA7B8",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "comment": {
             "foreground": "#706A66",
-            "fontStyle": "italic",
+            "fontStyle": "italic"
         },
         "string": {
             "foreground": "#FFE5DA",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "escapeSequence": {
             "foreground": "#F8A5AD",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "keyword": {
             "foreground": "#FF85AB",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "modifier": {
             "foreground": "#F8A5AD",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "number": {
             "foreground": "#DDA7B8",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "regexp": {
             "foreground": "#DDA7B8",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "operator": {
             "foreground": "#F8A5AD",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "builtinConstant": {
             "foreground": "#DDA7B8",
-            "fontStyle": "",
+            "fontStyle": ""
         },
         "selfParameter": {
             "foreground": "#A4CBC9",
-            "fontStyle": "",
+            "fontStyle": ""
         }
     },
     "tokenColors": [
@@ -897,7 +897,7 @@
             "name": "Default Source",
             "scope": [
                 "text",
-                "source",
+                "source"
             ],
             "settings": {
                 "foreground": "#A4CBC9",
@@ -920,7 +920,7 @@
         {
             "name": "Default Property",
             "scope": [
-                "meta.attribute",
+                "meta.attribute"
             ],
             "settings": {
                 "foreground": "#A4CBC9",
@@ -933,7 +933,7 @@
                 "punctuation",
                 "punctuation.definition",
                 "punctuation.section",
-                "meta.brace",
+                "meta.brace"
             ],
             "settings": {
                 "foreground": "#706A66",
@@ -945,7 +945,7 @@
             "scope": [
                 "punctuation.separator",
                 "punctuation.terminator",
-                "punctuation.accessor",
+                "punctuation.accessor"
             ],
             "settings": {
                 "foreground": "#706A66",
@@ -972,7 +972,7 @@
                 "string.quoted.single",
                 "string.quoted.double",
                 "string.quoted.triple",
-                "string.interpolated",
+                "string.interpolated"
             ],
             "settings": {
                 "foreground": "#FFE5DA",
@@ -983,7 +983,7 @@
             "name": "Default String Punctuation",
             "scope": [
                 "punctuation.definition.string",
-                "punctuation.support",
+                "punctuation.support"
             ],
             "settings": {
                 "foreground": "#706A66",
@@ -1006,7 +1006,7 @@
             "scope": [
                 "keyword",
                 "keyword.control",
-                "keyword.other",
+                "keyword.other"
             ],
             "settings": {
                 "foreground": "#FF85AB",
@@ -1028,7 +1028,7 @@
         {
             "name": "Default Storage Modifier",
             "scope": [
-                "storage.modifier",
+                "storage.modifier"
             ],
             "settings": {
                 "foreground": "#F8A5AD",
@@ -1038,7 +1038,7 @@
         {
             "name": "Default Operator",
             "scope": [
-                "keyword.operator",
+                "keyword.operator"
             ],
             "settings": {
                 "foreground": "#F8A5AD",
