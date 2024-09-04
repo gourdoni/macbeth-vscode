@@ -880,7 +880,7 @@
             "fontStyle": ""
         },
         "operator": {
-            "foreground": "#D5C5B8",
+            "foreground": "#FF8E85",
             "fontStyle": ""
         },
         "builtinConstant": {
@@ -1053,7 +1053,7 @@
                 "keyword.operator"
             ],
             "settings": {
-                "foreground": "#D5C5B8",
+                "foreground": "#FF8E85",
                 "fontStyle": ""
             }
         },
@@ -1135,6 +1135,16 @@
             ],
             "settings": {
                 "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Python F String Placeholder",
+            "scope": [
+                "constant.character.format.placeholder.other.python"
+            ],
+            "settings": {
+                "foreground": "#706A66",
                 "fontStyle": ""
             }
         },
