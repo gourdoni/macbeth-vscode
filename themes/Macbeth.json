@@ -1112,7 +1112,7 @@
                 "entity.name.tag"
             ],
             "settings": {
-                "foreground": "#F4C2DE",
+                "foreground": "#FF8E85",
                 "fontStyle": ""
             }
         },
@@ -1122,7 +1122,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#D7E4DC",
+                "foreground": "#FF8E85",
                 "fontStyle": ""
             }
         },
