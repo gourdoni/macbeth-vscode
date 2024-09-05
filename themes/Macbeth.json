@@ -1139,9 +1139,19 @@
             }
         },
         {
-            "name": "Python F String Placeholder",
+            "name": "Python Placeholder",
             "scope": [
                 "constant.character.format.placeholder.other.python"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Python Punctuation",
+            "scope": [
+                "meta.function.parameters.python"
             ],
             "settings": {
                 "foreground": "#706A66",
@@ -1249,7 +1259,8 @@
             "name": "Prolog Function",
             "scope": [
                 "entity.name.function.definition.prolog",
-                "entity.name.function.call.prolog"
+                "entity.name.function.call.prolog",
+                "meta.function.definition.prolog"
             ],
             "settings": {
                 "foreground": "#FF8E85",
@@ -1259,7 +1270,8 @@
         {
             "name": "Prolog Operator",
             "scope": [
-                "keyword.operator.prolog"
+                "keyword.operator.prolog",
+                "keyword.operator.assignment.prolog"
             ],
             "settings": {
                 "foreground": "#FFE2F2",
@@ -1289,7 +1301,8 @@
         {
             "name": "Clingo Function",
             "scope": [
-                "support.function.asp"
+                "support.function.asp",
+                "keyword.asp"
             ],
             "settings": {
                 "foreground": "#FFE2F2",
