@@ -1230,7 +1230,39 @@
                 "punctuation.section.regexp.prolog"
             ],
             "settings": {
-                "foreground": "#FFD0CC",
+                "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Variable",
+            "scope": [
+                "variable.parameter.prolog",
+                "variable.other.prolog"
+            ],
+            "settings": {
+                "foreground": "#EEE4DD",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Function",
+            "scope": [
+                "entity.name.function.definition.prolog",
+                "entity.name.function.call.prolog"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Prolog Operator",
+            "scope": [
+                "keyword.operator.prolog"
+            ],
+            "settings": {
+                "foreground": "#FFE2F2",
                 "fontStyle": ""
             }
         },
