@@ -900,7 +900,7 @@
                 "source"
             ],
             "settings": {
-                "foreground": "#A4CBC9",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
@@ -1199,6 +1199,16 @@
             ],
             "settings": {
                 "foreground": "#FFE5DA",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Clingo Source",
+            "scope": [
+                "source.asp"
+            ],
+            "settings": {
+                "foreground": "#706A66",
                 "fontStyle": ""
             }
         }

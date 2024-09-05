@@ -1233,6 +1233,36 @@
                 "foreground": "#FFD0CC",
                 "fontStyle": ""
             }
+        },
+        {
+            "name": "Clingo Source",
+            "scope": [
+                "source.asp"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Clingo Variable",
+            "scope": [
+                "variable.asp"
+            ],
+            "settings": {
+                "foreground": "#EEE4DD",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Clingo Function",
+            "scope": [
+                "support.function.asp"
+            ],
+            "settings": {
+                "foreground": "#FFE2F2",
+                "fontStyle": ""
+            }
         }
     ]
 }
