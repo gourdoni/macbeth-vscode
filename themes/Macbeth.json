@@ -1159,6 +1159,16 @@
             }
         },
         {
+            "name": "C Storage Modifier Keyword",
+            "scope": [
+                "storage.modifier.c"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "C Array Brackets",
             "scope": [
                 "storage.modifier.array.bracket.square.c"
