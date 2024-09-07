@@ -537,17 +537,17 @@
         "terminal.border": "#282A33",
         "terminal.foreground": "#EEE4DD",
         "terminal.ansiBrightBlack": "#D5C5B8",
-        "terminal.ansiBrightBlue": "#E3FAFF",
+        "terminal.ansiBrightBlue": "#D1F3FA",
         "terminal.ansiBrightCyan": "#D7E2DC",
-        "terminal.ansiBrightGreen": "#D7E2DC",
+        "terminal.ansiBrightGreen": "#DBE6DF",
         "terminal.ansiBrightMagenta": "#FFE2F2",
         "terminal.ansiBrightRed": "#FFD0CC",
         "terminal.ansiBrightWhite": "#EEE4DD",
         "terminal.ansiBrightYellow": "#FFE5DA",
         "terminal.ansiBlack": "#706A66",
         "terminal.ansiBlue": "#BCE7F1",
-        "terminal.ansiCyan": "#A4CBC9",
-        "terminal.ansiGreen": "#A4CBC9",
+        "terminal.ansiCyan": "#D1F3FA",
+        "terminal.ansiGreen": "#DBE6DF",
         "terminal.ansiMagenta": "#F4C2DE",
         "terminal.ansiRed": "#FF8E85",
         "terminal.ansiWhite": "#EEE4DD",
@@ -812,11 +812,11 @@
             "fontStyle": ""
         },
         "parameter": {
-            "foreground": "#F4C2DE",
+            "foreground": "#EEE4DD",
             "fontStyle": ""
         },
         "variable": {
-            "foreground": "#F4C2DE",
+            "foreground": "#EEE4DD",
             "fontStyle": ""
         },
         "property": {
@@ -913,7 +913,17 @@
                 "support.variable"
             ],
             "settings": {
-                "foreground": "#F4C2DE",
+                "foreground": "#EEE4DD",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Default Parameter",
+            "scope": [
+                "variable.parameter"
+            ],
+            "settings": {
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
