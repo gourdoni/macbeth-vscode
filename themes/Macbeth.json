@@ -820,7 +820,7 @@
             "fontStyle": ""
         },
         "property": {
-            "foreground": "#F4C2DE",
+            "foreground": "#EEE4DD",
             "fontStyle": ""
         },
         "enumMember": {
@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#DBE6DF",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "method": {
             "foreground": "#DBE6DF",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "macro": {
             "foreground": "#DBE6DF",
@@ -933,7 +933,7 @@
                 "meta.attribute"
             ],
             "settings": {
-                "foreground": "#F4C2DE",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
@@ -1168,6 +1168,16 @@
             }
         },
         {
+            "name": "C Operator",
+            "scope": [
+                "punctuation.separator.pointer-access.c"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "C Storage Modifier Keyword",
             "scope": [
                 "storage.modifier.c"
@@ -1230,7 +1240,7 @@
             ],
             "settings": {
                 "foreground": "#DBE6DF",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
