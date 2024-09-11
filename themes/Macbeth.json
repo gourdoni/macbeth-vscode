@@ -1297,6 +1297,17 @@
             }
         },
         {
+            "name": "Prolog List",
+            "scope": [
+                "punctuation.definition.list.prolog",
+                "punctuation.section.binding-pattern.prolog"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Prolog Operator",
             "scope": [
                 "keyword.operator.prolog",
