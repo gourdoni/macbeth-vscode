@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#DBE6DF",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "method": {
             "foreground": "#DBE6DF",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "macro": {
             "foreground": "#DBE6DF",
@@ -853,7 +853,7 @@
         },
         "comment": {
             "foreground": "#706A66",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "string": {
             "foreground": "#FFD0CC",
@@ -955,7 +955,8 @@
             "scope": [
                 "punctuation.separator",
                 "punctuation.terminator",
-                "punctuation.accessor"
+                "punctuation.accessor",
+                "constant.numeric.decimal.point"
             ],
             "settings": {
                 "foreground": "#706A66",
@@ -972,7 +973,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1114,7 +1115,7 @@
             ],
             "settings": {
                 "foreground": "#DBE6DF",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1240,7 +1241,7 @@
             ],
             "settings": {
                 "foreground": "#DBE6DF",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1346,6 +1347,38 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Erlang",
+            "scope": [
+                "meta.expression.parenthesized",
+                "meta.directive.define.erlang"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Erlang Atom",
+            "scope": [
+                "constant.other.symbol.unquoted.erlang"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Erlang Macro",
+            "scope": [
+                "entity.name.function.macro.erlang",
+                "entity.name.function.macro.definition.erlang"
+            ],
+            "settings": {
+                "foreground": "#DBE6DF",
                 "fontStyle": ""
             }
         }
