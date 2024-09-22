@@ -1173,6 +1173,16 @@
             }
         },
         {
+            "name": "Python Codetag",
+            "scope": [
+                "keyword.codetag.notation.python"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "C Operator",
             "scope": [
                 "punctuation.separator.pointer-access.c"
@@ -1383,6 +1393,16 @@
             ],
             "settings": {
                 "foreground": "#DBE6DF",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Zig Source",
+            "scope": [
+                "source.zig"
+            ],
+            "settings": {
+                "foreground": "#706A66",
                 "fontStyle": ""
             }
         }
