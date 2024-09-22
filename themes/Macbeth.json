@@ -844,6 +844,10 @@
             "fontStyle": ""
         },
         "macro": {
+            "foreground": "#EEE4DD",
+            "fontStyle": ""
+        },
+        "macro:rust": {
             "foreground": "#DBE6DF",
             "fontStyle": ""
         },
@@ -853,7 +857,7 @@
         },
         "comment": {
             "foreground": "#706A66",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "string": {
             "foreground": "#FFD0CC",
@@ -973,7 +977,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
