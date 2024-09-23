@@ -780,11 +780,11 @@
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "namespace": {
-            "foreground": "#FFE5DA",
+            "foreground": "#FBD0E8",
             "fontStyle": ""
         },
         "module": {
-            "foreground": "#FFE5DA",
+            "foreground": "#FBD0E8",
             "fontStyle": ""
         },
         "class": {
@@ -1114,7 +1114,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#DBE6DF",
+                "foreground": "#FFD7BC",
                 "fontStyle": ""
             }
         },
