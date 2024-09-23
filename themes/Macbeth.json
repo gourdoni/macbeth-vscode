@@ -1382,6 +1382,16 @@
             }
         },
         {
+            "name": "Erlang Module",
+            "scope": [
+                "entity.name.type.class.module.definition.erlang"
+            ],
+            "settings": {
+                "foreground": "#FFCCE8",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Erlang Atom",
             "scope": [
                 "constant.other.symbol.unquoted.erlang"
