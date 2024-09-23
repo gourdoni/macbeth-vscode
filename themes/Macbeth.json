@@ -538,7 +538,7 @@
         "terminal.foreground": "#EEE4DD",
         "terminal.ansiBrightBlack": "#D5C5B8",
         "terminal.ansiBrightBlue": "#D1F3FA",
-        "terminal.ansiBrightCyan": "#D7E2DC",
+        "terminal.ansiBrightCyan": "#D7EADE",
         "terminal.ansiBrightGreen": "#DBE6DF",
         "terminal.ansiBrightMagenta": "#FFE2F2",
         "terminal.ansiBrightRed": "#FFD9D6",
@@ -812,15 +812,15 @@
             "fontStyle": ""
         },
         "parameter": {
-            "foreground": "#FBD0E8",
+            "foreground": "#EEE4DD",
             "fontStyle": ""
         },
         "variable": {
-            "foreground": "#FBD0E8",
+            "foreground": "#EEE4DD",
             "fontStyle": ""
         },
         "property": {
-            "foreground": "#FBD0E8",
+            "foreground": "#EEE4DD",
             "fontStyle": ""
         },
         "enumMember": {
@@ -828,31 +828,27 @@
             "fontStyle": ""
         },
         "decorator": {
-            "foreground": "#DBE6DF",
+            "foreground": "#FFE2F2",
             "fontStyle": ""
         },
         "event": {
-            "foreground": "#DBE6DF",
+            "foreground": "#FFE2F2",
             "fontStyle": ""
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "macro": {
             "foreground": "#FFE2F2",
             "fontStyle": ""
         },
-        "macro:rust": {
-            "foreground": "#FFE2F2",
-            "fontStyle": "italic"
-        },
         "label": {
-            "foreground": "#FFE2F2",
+            "foreground": "#FF8E85",
             "fontStyle": ""
         },
         "comment": {
@@ -892,7 +888,7 @@
             "fontStyle": ""
         },
         "selfParameter": {
-            "foreground": "#EEE4DD",
+            "foreground": "#FFE5DA",
             "fontStyle": ""
         }
     },
@@ -904,7 +900,7 @@
                 "source"
             ],
             "settings": {
-                "foreground": "#FBD0E8",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
@@ -917,7 +913,7 @@
                 "support.variable"
             ],
             "settings": {
-                "foreground": "#FBD0E8",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
@@ -927,7 +923,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#FBD0E8",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
@@ -937,7 +933,7 @@
                 "meta.attribute"
             ],
             "settings": {
-                "foreground": "#FBD0E8",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
@@ -977,7 +973,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1119,7 +1115,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1284,7 +1280,7 @@
                 "punctuation.section.regexp.prolog"
             ],
             "settings": {
-                "foreground": "#EEE4DD",
+                "foreground": "#FF8E85",
                 "fontStyle": ""
             }
         },
@@ -1307,7 +1303,7 @@
                 "meta.function.definition.prolog"
             ],
             "settings": {
-                "foreground": "#FFD7BC",
+                "foreground": "#FF8E85",
                 "fontStyle": ""
             }
         },
@@ -1318,7 +1314,7 @@
                 "punctuation.section.binding-pattern.prolog"
             ],
             "settings": {
-                "foreground": "#FFD7BC",
+                "foreground": "#FF8E85",
                 "fontStyle": ""
             }
         },
@@ -1329,7 +1325,7 @@
                 "keyword.operator.assignment.prolog"
             ],
             "settings": {
-                "foreground": "#FF8E85",
+                "foreground": "#FFE2F2",
                 "fontStyle": ""
             }
         },
@@ -1365,6 +1361,16 @@
             }
         },
         {
+            "name": "Clingo Operator",
+            "scope": [
+                "punctuation.section.embedded.asp"
+            ],
+            "settings": {
+                "foreground": "#FFE2F2",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Erlang",
             "scope": [
                 "meta.expression.parenthesized",
@@ -1392,7 +1398,7 @@
                 "entity.name.function.macro.definition.erlang"
             ],
             "settings": {
-                "foreground": "#FBD0E8",
+                "foreground": "#FFCCE8",
                 "fontStyle": ""
             }
         },
