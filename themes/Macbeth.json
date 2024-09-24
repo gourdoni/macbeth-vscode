@@ -16,7 +16,7 @@
         "textBlockQuote.background": "#1B1C22",
         "textBlockQuote.border": "#1B1C2200",
         "textCodeBlock.background": "#282A33",
-        "textLink.activeForeground": "#FBD0E8",
+        "textLink.activeForeground": "#FFCCE8",
         "textLink.foreground": "#FFE2F2",
         "textPreformat.foreground": "#EEE4DD",
         "textPreformat.background": "#1B1C22",
@@ -28,9 +28,9 @@
         "button.foreground": "#1B1C22",
         "button.border": "#1B1C2200",
         "button.separator": "#1B1C22",
-        "button.hoverBackground": "#FBD0E8",
+        "button.hoverBackground": "#FFCCE8",
         "button.secondaryForeground": "#1B1C22",
-        "button.secondaryBackground": "#FBD0E8",
+        "button.secondaryBackground": "#FFCCE8",
         "button.secondaryHoverBackground": "#FFE2F2",
         "checkbox.background": "#282A33",
         "checkbox.foreground": "#EEE4DD",
@@ -52,9 +52,9 @@
         "inputValidation.errorBackground": "#FF8E85C0",
         "inputValidation.errorForeground": "#EEE4DD",
         "inputValidation.errorBorder": "#FF8E85",
-        "inputValidation.infoBackground": "#FBD0E8C0",
+        "inputValidation.infoBackground": "#FFCCE8C0",
         "inputValidation.infoForeground": "#EEE4DD",
-        "inputValidation.infoBorder": "#FBD0E8",
+        "inputValidation.infoBorder": "#FFCCE8",
         "inputValidation.warningBackground": "#D5C5B8C0",
         "inputValidation.warningForeground": "#EEE4DD",
         "inputValidation.warningBorder": "#D5C5B8",
@@ -71,7 +71,7 @@
         "list.dropBackground": "#282A33",
         "list.focusBackground": "#22232A",
         "list.focusForeground": "#FFE2F2",
-        "list.focusHighlightForeground": "#FBD0E8",
+        "list.focusHighlightForeground": "#FFCCE8",
         "list.focusOutline": "#1B1C2200",
         "list.focusAndSelectionOutline": "#1B1C2200",
         "list.highlightForeground": "#FFE2F2",
@@ -128,11 +128,11 @@
         "minimap.background": "#22232A",
         "minimap.selectionOccurrenceHighlight": "#706A66DC",
         "minimap.foregroundOpacity": "#000000DC",
-        "minimap.infoHighlight": "#FBD0E8",
+        "minimap.infoHighlight": "#FFCCE8",
         "minimapSlider.background": "#22232A80",
         "minimapSlider.hoverBackground": "#22232A80",
         "minimapSlider.activeBackground": "#22232A80",
-        "minimapGutter.addedBackground": "#FBD0E8",
+        "minimapGutter.addedBackground": "#FFCCE8",
         "minimapGutter.modifiedBackground": "#D5C5B8",
         "minimapGutter.deletedBackground": "#FF8E85",
         "editorGroup.border": "#282A33",
@@ -189,7 +189,7 @@
         "editor.wordHighlightBackground": "#31333F80",
         "editor.wordHighlightBorder": "#FFE2F200",
         "editor.wordHighlightStrongBackground": "#31333FD0",
-        "editor.wordHighlightStrongBorder": "#FBD0E800",
+        "editor.wordHighlightStrongBorder": "#FFCCE800",
         "editor.wordHighlightTextBackground": "#31333FD0",
         "editor.wordHighlightTextBorder": "#31333F",
         "editor.findMatchBackground": "#1B1C2200",
@@ -268,7 +268,7 @@
         "editorOverviewRuler.wordHighlightForeground": "#FFE2F2D0",
         "editorOverviewRuler.wordHighlightStrongForeground": "#FFE2F2D0",
         "editorOverviewRuler.wordHighlightTextForeground": "#FFE2F2D0",
-        "editorOverviewRuler.modifiedForeground": "#FBD0E8",
+        "editorOverviewRuler.modifiedForeground": "#FFCCE8",
         "editorOverviewRuler.addedForeground": "#FFE2F2",
         "editorOverviewRuler.deletedForeground": "#DBE6DF",
         "editorOverviewRuler.errorForeground": "#FF8E85",
@@ -508,10 +508,10 @@
         "banner.iconForeground": "#FFE2F2",
         "extensionButton.prominentBackground": "#FFE2F2",
         "extensionButton.prominentForeground": "#1B1C22",
-        "extensionButton.prominentHoverBackground": "#FBD0E8",
+        "extensionButton.prominentHoverBackground": "#FFCCE8",
         "extensionButton.background": "#FFE2F2",
         "extensionButton.foreground": "#1B1C22",
-        "extensionButton.hoverBackground": "#FBD0E8",
+        "extensionButton.hoverBackground": "#FFCCE8",
         "extensionButton.separator": "#1B1C22",
         "extensionBadge.remoteBackground": "#FFE2F2",
         "extensionBadge.remoteForeground": "#1B1C22",
@@ -548,7 +548,7 @@
         "terminal.ansiBlue": "#BCE7F1",
         "terminal.ansiCyan": "#D1F3FA",
         "terminal.ansiGreen": "#DBE6DF",
-        "terminal.ansiMagenta": "#FBD0E8",
+        "terminal.ansiMagenta": "#FFCCE8",
         "terminal.ansiRed": "#FF8E85",
         "terminal.ansiWhite": "#EEE4DD",
         "terminal.ansiYellow": "#FFD7BC",
@@ -582,7 +582,7 @@
         "debugView.stateLabelForeground": "#D5C5B8",
         "debugView.stateLabelBackground": "#D5C5B840",
         "debugView.valueChangedHighlight": "#FFE2F240",
-        "debugTokenExpression.name": "#FBD0E8",
+        "debugTokenExpression.name": "#FFCCE8",
         "debugTokenExpression.value": "#FFE2F2",
         "debugTokenExpression.string": "#DBE6DF",
         "debugTokenExpression.boolean": "#FFE2F2",
@@ -621,7 +621,7 @@
         "walkThrough.embeddedEditorBackground": "#1B1C22",
         "walkthrough.stepTitle.foreground": "#EEE4DD",
         "gitDecoration.addedResourceForeground": "#FFE2F2",
-        "gitDecoration.modifiedResourceForeground": "#FBD0E8",
+        "gitDecoration.modifiedResourceForeground": "#FFCCE8",
         "gitDecoration.deletedResourceForeground": "#DBE6DF",
         "gitDecoration.renamedResourceForeground": "#FFE2F2",
         "gitDecoration.stageModifiedResourceForeground": "#FFE2F2",
@@ -629,7 +629,7 @@
         "gitDecoration.untrackedResourceForeground": "#D5C5B8",
         "gitDecoration.ignoredResourceForeground": "#706A66",
         "gitDecoration.conflictingResourceForeground": "#DBE6DF",
-        "gitDecoration.submoduleResourceForeground": "#FBD0E8",
+        "gitDecoration.submoduleResourceForeground": "#FFCCE8",
         "settings.headerForeground": "#EEE4DD",
         "settings.modifiedItemIndicator": "#FFE2F2",
         "settings.dropdownBackground": "#1B1C22",
@@ -672,11 +672,11 @@
         "symbolIcon.fieldForeground": "#EEE4DD",
         "symbolIcon.fileForeground": "#EEE4DD",
         "symbolIcon.folderForeground": "#EEE4DD",
-        "symbolIcon.functionForeground": "#FBD0E8",
+        "symbolIcon.functionForeground": "#FFCCE8",
         "symbolIcon.interfaceForeground": "#FFE2F2",
         "symbolIcon.keyForeground": "#EEE4DD",
         "symbolIcon.keywordForeground": "#FFE2F2",
-        "symbolIcon.methodForeground": "#FBD0E8",
+        "symbolIcon.methodForeground": "#FFCCE8",
         "symbolIcon.moduleForeground": "#FFE2F2",
         "symbolIcon.namespaceForeground": "#FFE2F2",
         "symbolIcon.nullForeground": "#FFE2F2",
@@ -696,7 +696,7 @@
         "debugIcon.breakpointForeground": "#FF8E85",
         "debugIcon.breakpointDisabledForeground": "#D5C5B8",
         "debugIcon.breakpointUnverifiedForeground": "#D5C5B8",
-        "debugIcon.breakpointCurrentStackframeForeground": "#FBD0E8",
+        "debugIcon.breakpointCurrentStackframeForeground": "#FFCCE8",
         "debugIcon.breakpointStackframeForeground": "#FFE2F2",
         "debugIcon.startForeground": "#FFE2F2",
         "debugIcon.pauseForeground": "#FFE2F2",
@@ -780,11 +780,11 @@
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "namespace": {
-            "foreground": "#FBD0E8",
+            "foreground": "#FFCCE8",
             "fontStyle": ""
         },
         "module": {
-            "foreground": "#FBD0E8",
+            "foreground": "#FFCCE8",
             "fontStyle": ""
         },
         "class": {
@@ -812,15 +812,15 @@
             "fontStyle": ""
         },
         "parameter": {
-            "foreground": "#EEE4DD",
+            "foreground": "#FFCCE8",
             "fontStyle": ""
         },
         "variable": {
-            "foreground": "#EEE4DD",
+            "foreground": "#FFCCE8",
             "fontStyle": ""
         },
         "property": {
-            "foreground": "#EEE4DD",
+            "foreground": "#FFCCE8",
             "fontStyle": ""
         },
         "enumMember": {
@@ -888,7 +888,7 @@
             "fontStyle": ""
         },
         "selfParameter": {
-            "foreground": "#FFE5DA",
+            "foreground": "#FFCCE8",
             "fontStyle": ""
         }
     },
@@ -900,7 +900,7 @@
                 "source"
             ],
             "settings": {
-                "foreground": "#EEE4DD",
+                "foreground": "#FFCCE8",
                 "fontStyle": ""
             }
         },
@@ -913,7 +913,7 @@
                 "support.variable"
             ],
             "settings": {
-                "foreground": "#EEE4DD",
+                "foreground": "#FFCCE8",
                 "fontStyle": ""
             }
         },
@@ -923,7 +923,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#EEE4DD",
+                "foreground": "#FFCCE8",
                 "fontStyle": ""
             }
         },
@@ -933,7 +933,7 @@
                 "meta.attribute"
             ],
             "settings": {
-                "foreground": "#EEE4DD",
+                "foreground": "#FFCCE8",
                 "fontStyle": ""
             }
         },
@@ -973,7 +973,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1124,7 +1124,7 @@
                 "entity.name.namespace"
             ],
             "settings": {
-                "foreground": "#FBD0E8",
+                "foreground": "#FFCCE8",
                 "fontStyle": ""
             }
         },
@@ -1384,6 +1384,7 @@
         {
             "name": "Erlang Module",
             "scope": [
+                "entity.name.type.class.module.erlang",
                 "entity.name.type.class.module.definition.erlang"
             ],
             "settings": {
