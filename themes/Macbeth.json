@@ -837,15 +837,15 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "macro": {
             "foreground": "#FFE2F2",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "label": {
             "foreground": "#FF8E85",
@@ -1115,7 +1115,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1296,6 +1296,16 @@
             }
         },
         {
+            "name": "Prolog Anonymous Variable",
+            "scope": [
+                "variable.language.self.anonymous.prolog"
+            ],
+            "settings": {
+                "foreground": "#D5C5B8",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Prolog Function",
             "scope": [
                 "entity.name.function.definition.prolog",
@@ -1325,7 +1335,7 @@
                 "keyword.operator.assignment.prolog"
             ],
             "settings": {
-                "foreground": "#FFE2F2",
+                "foreground": "#D5C5B8",
                 "fontStyle": ""
             }
         },
@@ -1371,7 +1381,7 @@
             }
         },
         {
-            "name": "Erlang",
+            "name": "Erlang Base",
             "scope": [
                 "meta.expression.parenthesized",
                 "meta.directive.define.erlang"
@@ -1417,6 +1427,16 @@
             "name": "Zig Source",
             "scope": [
                 "source.zig"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Lua Source",
+            "scope": [
+                "source.lua"
             ],
             "settings": {
                 "foreground": "#706A66",
