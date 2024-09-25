@@ -1169,6 +1169,16 @@
             }
         },
         {
+            "name": "Python Decorator Punctuation",
+            "scope": [
+                "punctuation.definition.decorator.python"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Python Codetag",
             "scope": [
                 "keyword.codetag.notation.python"
