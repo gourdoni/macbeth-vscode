@@ -787,6 +787,10 @@
             "foreground": "#FFCCE8",
             "fontStyle": ""
         },
+        "module.decorator": {
+            "foreground": "#FFCCE8",
+            "fontStyle": "italic"
+        },
         "class": {
             "foreground": "#FFE2F2",
             "fontStyle": ""
