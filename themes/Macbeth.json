@@ -823,6 +823,10 @@
             "foreground": "#FFCCE8",
             "fontStyle": ""
         },
+        "variable.decorator": {
+            "foreground": "#FFCCE8",
+            "fontStyle": "italic"
+        },
         "property": {
             "foreground": "#FFCCE8",
             "fontStyle": ""
