@@ -18,11 +18,6 @@
         "label": "Macbeth",
         "uiTheme": "vs-dark",
         "path": "./themes/Macbeth.json"
-      },
-      {
-        "label": "Othello",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Othello.json"
       }
     ]
   }
