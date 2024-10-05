@@ -823,10 +823,6 @@
             "foreground": "#FFCCE8",
             "fontStyle": ""
         },
-        "variable.decorator": {
-            "foreground": "#FFCCE8",
-            "fontStyle": ""
-        },
         "property": {
             "foreground": "#FFCCE8",
             "fontStyle": ""
@@ -854,10 +850,6 @@
         "macro": {
             "foreground": "#FFE2F2",
             "fontStyle": ""
-        },
-        "macro:rust": {
-            "foreground": "#FFE2F2",
-            "fontStyle": "italic"
         },
         "label": {
             "foreground": "#FF8E85",
