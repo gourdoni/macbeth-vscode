@@ -1265,38 +1265,6 @@
             }
         },
         {
-            "name": "Go Function",
-            "scope": [
-                "entity.name.function.go",
-                "entity.name.function.support.go",
-                "entity.name.function.support.builtin.go"
-            ],
-            "settings": {
-                "foreground": "#DBE6DF",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Go Rune",
-            "scope": [
-                "constant.other.rune.go"
-            ],
-            "settings": {
-                "foreground": "#FFD9D6",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Go String",
-            "scope": [
-                "string.double.quoted.go"
-            ],
-            "settings": {
-                "foreground": "#FFD9D6",
-                "fontStyle": ""
-            }
-        },
-        {
             "name": "Prolog Source",
             "scope": [
                 "source.prolog"
