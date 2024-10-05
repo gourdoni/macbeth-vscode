@@ -845,11 +845,11 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "macro": {
             "foreground": "#FFE2F2",
@@ -1127,7 +1127,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1430,6 +1430,16 @@
             ],
             "settings": {
                 "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Zig Support Function",
+            "scope": [
+                "support.function.builtin.zig"
+            ],
+            "settings": {
+                "foreground": "#FFE2F2",
                 "fontStyle": ""
             }
         },
