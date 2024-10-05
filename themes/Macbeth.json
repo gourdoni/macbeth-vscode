@@ -922,26 +922,7 @@
                 "variable",
                 "variable.other",
                 "variable.parameter",
-                "support.variable"
-            ],
-            "settings": {
-                "foreground": "#FFCCE8",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default Parameter",
-            "scope": [
-                "variable.parameter"
-            ],
-            "settings": {
-                "foreground": "#FFCCE8",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default Property",
-            "scope": [
+                "support.variable",
                 "meta.attribute"
             ],
             "settings": {
@@ -955,20 +936,11 @@
                 "punctuation",
                 "punctuation.definition",
                 "punctuation.section",
-                "meta.brace"
-            ],
-            "settings": {
-                "foreground": "#706A66",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default Separator",
-            "scope": [
+                "punctuation.support",
                 "punctuation.separator",
                 "punctuation.terminator",
                 "punctuation.accessor",
-                "constant.numeric.decimal.point"
+                "meta.brace"
             ],
             "settings": {
                 "foreground": "#706A66",
@@ -996,17 +968,6 @@
                 "string.quoted.double",
                 "string.quoted.triple",
                 "string.interpolated"
-            ],
-            "settings": {
-                "foreground": "#FFD9D6",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default String Punctuation",
-            "scope": [
-                "punctuation.definition.string",
-                "punctuation.support"
             ],
             "settings": {
                 "foreground": "#FFD9D6",
@@ -1048,11 +1009,9 @@
             }
         },
         {
-            "name": "Default Storage Type",
+            "name": "Default Operator",
             "scope": [
-                "storage.type",
-                "storage.type.function",
-                "storage.type.class"
+                "keyword.operator"
             ],
             "settings": {
                 "foreground": "#FF8E85",
@@ -1060,8 +1019,11 @@
             }
         },
         {
-            "name": "Default Storage Modifier",
+            "name": "Default Storage Type",
             "scope": [
+                "storage.type",
+                "storage.type.function",
+                "storage.type.class",
                 "storage.modifier"
             ],
             "settings": {
@@ -1070,9 +1032,9 @@
             }
         },
         {
-            "name": "Default Operator",
+            "name": "Default Support Type",
             "scope": [
-                "keyword.operator"
+                "support.type"
             ],
             "settings": {
                 "foreground": "#FF8E85",
@@ -1085,17 +1047,8 @@
                 "constant",
                 "constant.language",
                 "constant.other",
+                "constant.numeric",
                 "support.constant"
-            ],
-            "settings": {
-                "foreground": "#FFE2F2",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default Number",
-            "scope": [
-                "constant.numeric"
             ],
             "settings": {
                 "foreground": "#FFE2F2",
@@ -1137,26 +1090,6 @@
             ],
             "settings": {
                 "foreground": "#FFCCE8",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default Tag",
-            "scope": [
-                "entity.name.tag"
-            ],
-            "settings": {
-                "foreground": "#FF8E85",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Default Support",
-            "scope": [
-                "support.type"
-            ],
-            "settings": {
-                "foreground": "#FF8E85",
                 "fontStyle": ""
             }
         },
