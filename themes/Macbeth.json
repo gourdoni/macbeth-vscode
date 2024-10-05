@@ -851,6 +851,10 @@
             "foreground": "#FFE2F2",
             "fontStyle": ""
         },
+        "macro:rust": {
+            "foreground": "#FFE2F2",
+            "fontStyle": "italic"
+        },
         "label": {
             "foreground": "#FF8E85",
             "fontStyle": ""
@@ -1289,13 +1293,23 @@
             }
         },
         {
+            "name": "Prolog Source",
+            "scope": [
+                "source.prolog"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Prolog Constant",
             "scope": [
                 "punctuation.section.regexp.prolog"
             ],
             "settings": {
                 "foreground": "#FF8E85",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
