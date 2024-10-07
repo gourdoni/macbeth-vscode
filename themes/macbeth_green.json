@@ -872,7 +872,7 @@
             "fontStyle": ""
         },
         "number": {
-            "foreground": "#F3F6F4",
+            "foreground": "#FFE2F2",
             "fontStyle": ""
         },
         "regexp": {
@@ -884,7 +884,7 @@
             "fontStyle": ""
         },
         "builtinConstant": {
-            "foreground": "#F3F6F4",
+            "foreground": "#FFE2F2",
             "fontStyle": ""
         },
         "selfParameter": {
@@ -1039,7 +1039,7 @@
                 "support.constant"
             ],
             "settings": {
-                "foreground": "#F3F6F4",
+                "foreground": "#FFE2F2",
                 "fontStyle": ""
             }
         },
