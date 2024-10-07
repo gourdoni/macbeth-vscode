@@ -15,9 +15,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Macbeth",
+        "label": "Macbeth Purple",
         "uiTheme": "vs-dark",
-        "path": "./themes/Macbeth.json"
+        "path": "./themes/macbeth_purple.json"
+      },
+      {
+        "label": "Macbeth Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/macbeth_blue.json"
+      },
+      {
+        "label": "Macbeth Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/macbeth_green.json"
       }
     ]
   }
