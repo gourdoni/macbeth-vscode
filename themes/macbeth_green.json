@@ -1011,11 +1011,20 @@
             "scope": [
                 "storage.type",
                 "storage.type.function",
-                "storage.type.class",
-                "storage.modifier"
+                "storage.type.class"
             ],
             "settings": {
                 "foreground": "#FF8E85",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Default Storage Modifier",
+            "scope": [
+                "storage.modifier"
+            ],
+            "settings": {
+                "foreground": "#706A66",
                 "fontStyle": ""
             }
         },
