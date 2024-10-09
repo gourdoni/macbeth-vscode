@@ -829,7 +829,7 @@
         },
         "decorator": {
             "foreground": "#FFE2F2",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "event": {
             "foreground": "#FFE2F2",
@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "macro": {
             "foreground": "#FFE2F2",
@@ -890,6 +890,9 @@
         "selfParameter": {
             "foreground": "#FFCCE8",
             "fontStyle": ""
+        },
+        "*.decorator": {
+            "fontStyle": "italic"
         }
     },
     "tokenColors": [
@@ -933,6 +936,16 @@
             "settings": {
                 "foreground": "#706A66",
                 "fontStyle": ""
+            }
+        },
+        {
+            "name": "Default Decorator",
+            "scope": [
+                "punctuation.definition.decorator"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": "italic"
             }
         },
         {
@@ -1078,7 +1091,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
