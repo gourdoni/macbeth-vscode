@@ -787,6 +787,10 @@
             "foreground": "#BCE7F1",
             "fontStyle": ""
         },
+        "module.decorator": {
+            "foreground": "#BCE7F1",
+            "fontStyle": "italic"
+        },
         "class": {
             "foreground": "#E3FAFF",
             "fontStyle": ""
@@ -829,7 +833,7 @@
         },
         "decorator": {
             "foreground": "#E3FAFF",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "event": {
             "foreground": "#E3FAFF",
@@ -837,11 +841,11 @@
         },
         "function": {
             "foreground": "#E3FAFF",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "method": {
             "foreground": "#E3FAFF",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "macro": {
             "foreground": "#E3FAFF",
@@ -1077,7 +1081,7 @@
             ],
             "settings": {
                 "foreground": "#E3FAFF",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
