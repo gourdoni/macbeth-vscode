@@ -787,10 +787,6 @@
             "foreground": "#FFCCE8",
             "fontStyle": ""
         },
-        "module.decorator": {
-            "foreground": "#FFCCE8",
-            "fontStyle": "italic"
-        },
         "class": {
             "foreground": "#FFE2F2",
             "fontStyle": ""
@@ -1092,6 +1088,16 @@
             "settings": {
                 "foreground": "#FFCCE8",
                 "fontStyle": ""
+            }
+        },
+        {
+            "name": "Default Decorator",
+            "scope": [
+                "punctuation.definition.decorator"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": "italic"
             }
         },
         {
