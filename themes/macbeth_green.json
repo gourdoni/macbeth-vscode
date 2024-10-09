@@ -914,7 +914,18 @@
                 "variable.other",
                 "variable.parameter",
                 "support.variable",
-                "meta.attribute"
+                "meta.attribute",
+                "meta.function-call.arguments"
+            ],
+            "settings": {
+                "foreground": "#D7EADE",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Default Macro",
+            "scope": [
+                "entity.name.function.macro"
             ],
             "settings": {
                 "foreground": "#D7EADE",
@@ -927,11 +938,15 @@
                 "punctuation",
                 "punctuation.definition",
                 "punctuation.section",
+                "punctuation.section.parameters",
+                "punctuation.section.block",
                 "punctuation.support",
                 "punctuation.separator",
                 "punctuation.terminator",
                 "punctuation.accessor",
-                "meta.brace"
+                "meta.brace",
+                "meta.directive",
+                "meta.expression"
             ],
             "settings": {
                 "foreground": "#706A66",
