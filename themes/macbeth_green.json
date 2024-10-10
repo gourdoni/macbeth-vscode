@@ -908,6 +908,17 @@
             }
         },
         {
+            "name": "Alternate Source",
+            "scope": [
+                "source.zig",
+                "source.lua"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Default Variable",
             "scope": [
                 "variable",
@@ -1116,16 +1127,6 @@
             ],
             "settings": {
                 "foreground": "#D7EADE",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Zig Source",
-            "scope": [
-                "source.zig"
-            ],
-            "settings": {
-                "foreground": "#706A66",
                 "fontStyle": ""
             }
         }
