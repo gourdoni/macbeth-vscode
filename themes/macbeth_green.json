@@ -1121,6 +1121,16 @@
             }
         },
         {
+            "name": "Default Module",
+            "scope": [
+                "entity.name.type.class.module"
+            ],
+            "settings": {
+                "foreground": "#D7EADE",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Default Namespace",
             "scope": [
                 "entity.name.namespace"
