@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#E3FAFF",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "method": {
             "foreground": "#E3FAFF",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "macro": {
             "foreground": "#E3FAFF",
@@ -853,7 +853,7 @@
         },
         "comment": {
             "foreground": "#706A66",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "string": {
             "foreground": "#FFD9D6",
@@ -865,7 +865,7 @@
         },
         "keyword": {
             "foreground": "#FF8E85",
-            "fontStyle": ""
+            "fontStyle": "italic"
         },
         "modifier": {
             "foreground": "#FF8E85",
@@ -891,8 +891,11 @@
             "foreground": "#BCE7F1",
             "fontStyle": ""
         },
+        "function.decorator": {
+            "fontStyle": "bold italic"
+        },
         "*.decorator": {
-            "fontStyle": ""
+            "fontStyle": "italic"
         }
     },
     "tokenColors": [
@@ -967,6 +970,16 @@
             }
         },
         {
+            "name": "Default Directive",
+            "scope": [
+                "punctuation.definition.directive"
+            ],
+            "settings": {
+                "foreground": "#706A66",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Default Decorator",
             "scope": [
                 "punctuation.definition.decorator"
@@ -986,7 +999,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1034,7 +1047,7 @@
             ],
             "settings": {
                 "foreground": "#FF8E85",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -1051,7 +1064,6 @@
             "name": "Default Storage Type",
             "scope": [
                 "storage.type",
-                "storage.type.function",
                 "storage.type.class",
                 "storage.modifier",
                 "storage.modifier.declaration"
@@ -1059,6 +1071,16 @@
             "settings": {
                 "foreground": "#FF8E85",
                 "fontStyle": ""
+            }
+        },
+        {
+            "name": "Default Function Type",
+            "scope": [
+                "storage.type.function"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": "italic"
             }
         },
         {
@@ -1120,7 +1142,7 @@
             ],
             "settings": {
                 "foreground": "#E3FAFF",
-                "fontStyle": "bold"
+                "fontStyle": "bold italic"
             }
         },
         {
