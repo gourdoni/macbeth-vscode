@@ -845,7 +845,7 @@
         },
         "macro": {
             "foreground": "#F3F6F4",
-            "fontStyle": ""
+            "fontStyle": "bold"
         },
         "label": {
             "foreground": "#FF8E85",
@@ -945,7 +945,7 @@
             ],
             "settings": {
                 "foreground": "#D7EADE",
-                "fontStyle": ""
+                "fontStyle": "bold"
             }
         },
         {
