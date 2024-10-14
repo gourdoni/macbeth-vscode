@@ -1065,8 +1065,19 @@
             "scope": [
                 "storage.type",
                 "storage.type.class",
+                "storage.type.function",
                 "storage.modifier",
                 "storage.modifier.declaration"
+            ],
+            "settings": {
+                "foreground": "#FF8E85",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Default Primitive",
+            "scope": [
+                "storage.type.primitive"
             ],
             "settings": {
                 "foreground": "#FF8E85",
@@ -1074,13 +1085,14 @@
             }
         },
         {
-            "name": "Default Function Type",
+            "name": "Default Storage Modifier",
             "scope": [
-                "storage.type.function"
+                "storage.modifier",
+                "storage.modifier.declaration"
             ],
             "settings": {
                 "foreground": "#FF8E85",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
