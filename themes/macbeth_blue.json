@@ -1077,7 +1077,8 @@
         {
             "name": "Default Primitive",
             "scope": [
-                "storage.type.primitive"
+                "storage.type.primitive",
+                "storage.type.built-in.primitive"
             ],
             "settings": {
                 "foreground": "#FF8E85",
