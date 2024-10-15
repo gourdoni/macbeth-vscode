@@ -944,7 +944,7 @@
                 "entity.name.function.macro"
             ],
             "settings": {
-                "foreground": "#BCE7F1",
+                "foreground": "#E3FAFF",
                 "fontStyle": "bold"
             }
         },
