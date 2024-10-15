@@ -1157,6 +1157,16 @@
             }
         },
         {
+            "name": "Default Type",
+            "scope": [
+                "entity.name.import"
+            ],
+            "settings": {
+                "foreground": "#D7EADE",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "Default Function",
             "scope": [
                 "meta.function",
