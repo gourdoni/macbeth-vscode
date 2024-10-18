@@ -1067,9 +1067,7 @@
             "scope": [
                 "storage.type",
                 "storage.type.class",
-                "storage.type.function",
-                "storage.modifier",
-                "storage.modifier.declaration"
+                "storage.type.function"
             ],
             "settings": {
                 "foreground": "#FF8E85",
@@ -1106,7 +1104,7 @@
             ],
             "settings": {
                 "foreground": "#FF8E85",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
