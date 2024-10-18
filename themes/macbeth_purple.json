@@ -929,6 +929,7 @@
                 "variable.other",
                 "variable.parameter",
                 "support.variable",
+                "meta.interpolation",
                 "meta.attribute",
                 "meta.function-call.arguments",
                 "entity.other.attribute"
