@@ -1176,6 +1176,7 @@
                 "meta.function",
                 "meta.function-call",
                 "entity.name.function",
+                "entity.name.function.macro",
                 "support.function"
             ],
             "settings": {
