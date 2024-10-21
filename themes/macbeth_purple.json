@@ -847,6 +847,10 @@
             "foreground": "#FFE2F2",
             "fontStyle": "bold"
         },
+        "macro.rust": {
+            "foreground": "#FFE2F2",
+            "fontStyle": "bold italic"
+        },
         "label": {
             "foreground": "#FF8E85",
             "fontStyle": ""
