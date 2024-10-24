@@ -837,19 +837,15 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "bold italic"
+            "fontStyle": "bold"
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "bold italic"
+            "fontStyle": "bold"
         },
         "macro": {
             "foreground": "#FFE2F2",
             "fontStyle": "bold"
-        },
-        "macro.rust": {
-            "foreground": "#FFE2F2",
-            "fontStyle": "bold italic"
         },
         "label": {
             "foreground": "#FF8E85",
@@ -869,7 +865,7 @@
         },
         "keyword": {
             "foreground": "#FF8E85",
-            "fontStyle": "italic"
+            "fontStyle": ""
         },
         "modifier": {
             "foreground": "#FF8E85",
@@ -894,12 +890,6 @@
         "selfParameter": {
             "foreground": "#FFCCE8",
             "fontStyle": ""
-        },
-        "function.decorator": {
-            "fontStyle": "bold italic"
-        },
-        "*.decorator": {
-            "fontStyle": "italic"
         }
     },
     "tokenColors": [
@@ -981,7 +971,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -991,7 +981,7 @@
             ],
             "settings": {
                 "foreground": "#706A66",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1053,7 +1043,7 @@
             ],
             "settings": {
                 "foreground": "#FF8E85",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1075,7 +1065,7 @@
             ],
             "settings": {
                 "foreground": "#FF8E85",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1108,7 +1098,7 @@
             ],
             "settings": {
                 "foreground": "#FF8E85",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1181,7 +1171,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "bold italic"
+                "fontStyle": "bold"
             }
         },
         {
