@@ -837,15 +837,15 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "bold"
+            "fontStyle": ""
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "bold"
+            "fontStyle": ""
         },
         "macro": {
             "foreground": "#FFE2F2",
-            "fontStyle": "bold"
+            "fontStyle": ""
         },
         "label": {
             "foreground": "#FF8E85",
@@ -940,7 +940,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1171,7 +1171,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {

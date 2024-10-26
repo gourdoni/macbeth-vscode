@@ -837,15 +837,15 @@
         },
         "function": {
             "foreground": "#F3F6F4",
-            "fontStyle": "bold"
+            "fontStyle": ""
         },
         "method": {
             "foreground": "#F3F6F4",
-            "fontStyle": "bold"
+            "fontStyle": ""
         },
         "macro": {
             "foreground": "#F3F6F4",
-            "fontStyle": "bold"
+            "fontStyle": ""
         },
         "label": {
             "foreground": "#FF8E85",
@@ -940,7 +940,7 @@
             ],
             "settings": {
                 "foreground": "#F3F6F4",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1171,7 +1171,7 @@
             ],
             "settings": {
                 "foreground": "#F3F6F4",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
