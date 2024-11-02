@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic"
+            "fontStyle": "bold"
         },
         "method": {
             "foreground": "#FFE2F2",
-            "fontStyle": "italic"
+            "fontStyle": "bold"
         },
         "macro": {
             "foreground": "#FFE2F2",
@@ -893,6 +893,9 @@
         },
         "*.decorator": {
             "fontStyle": "italic"
+        },
+        "function.decorator": {
+            "fontStyle": "bold italic"
         }
     },
     "tokenColors": [
@@ -1184,7 +1187,7 @@
             ],
             "settings": {
                 "foreground": "#FFE2F2",
-                "fontStyle": "italic"
+                "fontStyle": "bold"
             }
         },
         {
