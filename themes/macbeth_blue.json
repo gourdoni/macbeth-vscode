@@ -837,15 +837,19 @@
         },
         "function": {
             "foreground": "#E3FAFF",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "method": {
             "foreground": "#E3FAFF",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "macro": {
             "foreground": "#E3FAFF",
             "fontStyle": "bold"
+        },
+        "macro:rust": {
+            "foreground": "#E3FAFF",
+            "fontStyle": "bold italic"
         },
         "label": {
             "foreground": "#FF8E85",
@@ -1187,7 +1191,7 @@
             ],
             "settings": {
                 "foreground": "#E3FAFF",
-                "fontStyle": "bold"
+                "fontStyle": "bold italic"
             }
         },
         {
