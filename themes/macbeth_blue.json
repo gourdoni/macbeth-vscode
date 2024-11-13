@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#E3FAFF",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "method": {
             "foreground": "#E3FAFF",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "macro": {
             "foreground": "#E3FAFF",
@@ -849,7 +849,7 @@
         },
         "macro:rust": {
             "foreground": "#E3FAFF",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "label": {
             "foreground": "#FF8E85",
@@ -899,7 +899,7 @@
             "fontStyle": "italic"
         },
         "function.decorator": {
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         }
     },
     "tokenColors": [
@@ -1191,7 +1191,7 @@
             ],
             "settings": {
                 "foreground": "#E3FAFF",
-                "fontStyle": "bold"
+                "fontStyle": "bold italic"
             }
         },
         {
