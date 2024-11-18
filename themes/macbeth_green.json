@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#F3F6F4",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "method": {
             "foreground": "#F3F6F4",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "macro": {
             "foreground": "#F3F6F4",
@@ -849,7 +849,7 @@
         },
         "macro:rust": {
             "foreground": "#F3F6F4",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "label": {
             "foreground": "#FF8E85",
@@ -899,7 +899,7 @@
             "fontStyle": "italic"
         },
         "function.decorator": {
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         }
     },
     "tokenColors": [
@@ -911,6 +911,16 @@
             ],
             "settings": {
                 "foreground": "#D7EADE",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Secondary Source",
+            "scope": [
+                "source.ignore"
+            ],
+            "settings": {
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },
@@ -1191,7 +1201,7 @@
             ],
             "settings": {
                 "foreground": "#F3F6F4",
-                "fontStyle": "bold"
+                "fontStyle": "bold italic"
             }
         },
         {
