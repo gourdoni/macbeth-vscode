@@ -906,11 +906,22 @@
         {
             "name": "Default Source",
             "scope": [
-                "text",
                 "source"
             ],
             "settings": {
                 "foreground": "#FFCCE8",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Alternate Source",
+            "scope": [
+                "source.zig",
+                "source.lua",
+                "source.asp"
+            ],
+            "settings": {
+                "foreground": "#706A66",
                 "fontStyle": ""
             }
         },
@@ -925,14 +936,13 @@
             }
         },
         {
-            "name": "Alternate Source",
+            "name": "Default Text",
             "scope": [
-                "source.zig",
-                "source.lua",
-                "source.asp"
+                "text",
+                "meta.paragraph"
             ],
             "settings": {
-                "foreground": "#706A66",
+                "foreground": "#EEE4DD",
                 "fontStyle": ""
             }
         },

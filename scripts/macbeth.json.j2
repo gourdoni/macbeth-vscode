@@ -837,11 +837,11 @@
         },
         "function": {
             "foreground": "#{{colour_1}}",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "method": {
             "foreground": "#{{colour_1}}",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "macro": {
             "foreground": "#{{colour_1}}",
@@ -849,7 +849,7 @@
         },
         "macro:rust": {
             "foreground": "#{{colour_1}}",
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         },
         "label": {
             "foreground": "#{{red_2}}",
@@ -899,18 +899,29 @@
             "fontStyle": "italic"
         },
         "function.decorator": {
-            "fontStyle": "bold"
+            "fontStyle": "bold italic"
         }
     },
     "tokenColors": [
         {
             "name": "Default Source",
             "scope": [
-                "text",
                 "source"
             ],
             "settings": {
                 "foreground": "#{{colour_2}}",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Alternate Source",
+            "scope": [
+                "source.zig",
+                "source.lua",
+                "source.asp"
+            ],
+            "settings": {
+                "foreground": "#{{foreground_3}}",
                 "fontStyle": ""
             }
         },
@@ -925,14 +936,13 @@
             }
         },
         {
-            "name": "Alternate Source",
+            "name": "Default Text",
             "scope": [
-                "source.zig",
-                "source.lua",
-                "source.asp"
+                "text",
+                "meta.paragraph"
             ],
             "settings": {
-                "foreground": "#{{foreground_3}}",
+                "foreground": "#{{foreground_1}}",
                 "fontStyle": ""
             }
         },
@@ -1201,7 +1211,7 @@
             ],
             "settings": {
                 "foreground": "#{{colour_1}}",
-                "fontStyle": "bold"
+                "fontStyle": "bold italic"
             }
         },
         {
